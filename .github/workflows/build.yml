@@ -5,6 +5,7 @@ on:
     paths:
       - 'go-coach-source.zip'
       - 'go-coach-portraits.zip'
+      - 'go-coach-wild-map.zip'
       - '.github/workflows/build.yml'
 permissions:
   contents: read
@@ -30,6 +31,11 @@ jobs:
             mkdir -p project/app/src/main/assets/portraits
             unzip -q -o go-coach-portraits.zip -d project/app/src/main/assets/portraits
           fi
+      - name: Add optional wild map tuning
+        run: |
+          if [ -f go-coach-wild-map.zip ]; then
+            unzip -q -o go-coach-wild-map.zip -d project/app/src/main/assets
+          fi
       - name: Install Android SDK
         run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
       - name: Build debug APK
@@ -37,7 +43,7 @@ jobs:
         run: gradle --no-daemon assembleDebug
       - uses: actions/upload-artifact@v4
         with:
-          name: GO-Coach-v0.9.2-APK
+          name: GO-Coach-v0.9.7-APK
           path: project/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14
