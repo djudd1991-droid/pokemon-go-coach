@@ -43,7 +43,7 @@ jobs:
         run: gradle --no-daemon assembleDebug
       - uses: actions/upload-artifact@v4
         with:
-          name: GO-Coach-v0.9.14-APK
+          name: GO-Coach-v0.9.15-APK
           path: project/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14
