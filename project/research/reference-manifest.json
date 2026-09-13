@@ -1,0 +1,72 @@
+[
+  {
+    "target": "cinderace",
+    "source": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm815.icon.png",
+    "file": "references/cinderace.png",
+    "size": [
+      82,
+      186
+    ],
+    "sha256": "ae6e9edf8bd487fafdc134ed3203a9afa1c80ab25e5d230b808e578389689449"
+  },
+  {
+    "target": "metagross",
+    "source": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm376.icon.png",
+    "file": "references/metagross.png",
+    "size": [
+      255,
+      135
+    ],
+    "sha256": "17f81bc39828fd09525aee78b9aba46af3df52aa9ed448abe50fe9ef380183d7"
+  },
+  {
+    "target": "metagross-shiny",
+    "source": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm376.s.icon.png",
+    "file": "references/metagross-shiny.png",
+    "size": [
+      256,
+      135
+    ],
+    "sha256": "77b4ed15b44eed2a4c6f248217238cb9de8dce298acb7eef8999fa5e1c1a3145"
+  },
+  {
+    "target": "lapras",
+    "source": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm131.icon.png",
+    "file": "references/lapras.png",
+    "size": [
+      224,
+      177
+    ],
+    "sha256": "fbab95da3b91d88b4676a255f1675c24f3527100f29e29e462a0aa0a8f3cd539"
+  },
+  {
+    "target": "lapras-mystic",
+    "source": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm131.cSPRING_2023_MYSTIC.icon.png",
+    "file": "references/lapras-mystic.png",
+    "size": [
+      223,
+      177
+    ],
+    "sha256": "385a3b929a746dea7db15d3e5f4321c323796537bcc0e3842c258badbcc14884"
+  },
+  {
+    "target": "mewtwo",
+    "source": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm150.icon.png",
+    "file": "references/mewtwo.png",
+    "size": [
+      107,
+      168
+    ],
+    "sha256": "d4ec7e40eb273eacda7dd98b21b1ef83cc9913edb996f56d73aeb6e2dd1d490a"
+  },
+  {
+    "target": "armored-mewtwo",
+    "source": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_pm0150_00_pgo_a.png",
+    "file": "references/armored-mewtwo.png",
+    "size": [
+      237,
+      208
+    ],
+    "sha256": "461f9ef6bcc927b6e518cf34e6399c632062db8df604ece3ac6a12f3cb1045f0"
+  }
+]

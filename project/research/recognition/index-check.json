@@ -1,0 +1,164 @@
+[
+  {
+    "expected": "Bulbasaur",
+    "prediction": "Bulbasaur",
+    "top": [
+      [
+        "Bulbasaur",
+        [
+          176,
+          0.09068955997912326
+        ]
+      ],
+      [
+        "Lapras",
+        [
+          5,
+          0.030788790337859515
+        ]
+      ],
+      [
+        "Regidrago",
+        [
+          5,
+          0.018405164032886494
+        ]
+      ]
+    ]
+  },
+  {
+    "expected": "Charizard",
+    "prediction": "Charizard",
+    "top": [
+      [
+        "Charizard",
+        [
+          135,
+          0.22117867576418362
+        ]
+      ],
+      [
+        "Chesnaught",
+        [
+          5,
+          0.03404673299881655
+        ]
+      ],
+      [
+        "Lapras",
+        [
+          4,
+          0.006822740985598864
+        ]
+      ]
+    ]
+  },
+  {
+    "expected": "Pikachu",
+    "prediction": "Pikachu",
+    "top": [
+      [
+        "Pikachu",
+        [
+          61,
+          0.05816286229567335
+        ]
+      ],
+      [
+        "Metagross",
+        [
+          5,
+          0.0063289385148246466
+        ]
+      ],
+      [
+        "Tinkatink",
+        [
+          5,
+          0.007937298152587135
+        ]
+      ]
+    ]
+  },
+  {
+    "expected": "Dragonite",
+    "prediction": "Dragonite",
+    "top": [
+      [
+        "Dragonite",
+        [
+          166,
+          0.16147010262764439
+        ]
+      ],
+      [
+        "Farfetch'd",
+        [
+          5,
+          0.008705275021522324
+        ]
+      ],
+      [
+        "Lickitung",
+        [
+          5,
+          0.0255431527887277
+        ]
+      ]
+    ]
+  },
+  {
+    "expected": "Tyranitar",
+    "prediction": "Tyranitar",
+    "top": [
+      [
+        "Tyranitar",
+        [
+          180,
+          0.21619873182404165
+        ]
+      ],
+      [
+        "Charmeleon",
+        [
+          6,
+          0.05859389215670828
+        ]
+      ],
+      [
+        "Metagross",
+        [
+          5,
+          0.02765334419251109
+        ]
+      ]
+    ]
+  },
+  {
+    "expected": "Gardevoir",
+    "prediction": "Gardevoir",
+    "top": [
+      [
+        "Gardevoir",
+        [
+          120,
+          0.13641730078197756
+        ]
+      ],
+      [
+        "Armored Mewtwo",
+        [
+          4,
+          0.05240406950608422
+        ]
+      ],
+      [
+        "Carnivine",
+        [
+          4,
+          0.06012189581613983
+        ]
+      ]
+    ]
+  }
+]

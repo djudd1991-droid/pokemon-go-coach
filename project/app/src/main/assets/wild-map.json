@@ -1,0 +1,6 @@
+{
+  "version": 4,
+  "scanner": "map-objects-v0.9.16",
+  "max_results": 16,
+  "notes": "Detect connected objects in the current frame. Pok\u00e9Stops are labeled separately; other candidates remain Unknown. Requires source v0.9.16 or later. Legacy fixed spots and color/edge crop thresholds are no longer used."
+}

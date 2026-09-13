@@ -1,0 +1,9 @@
+*.java text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.xml text eol=lf
+*.yml text eol=lf
+*.gradle text eol=lf
+*.bin binary
+*.zip binary
+*.jks binary

@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - 'project/**'
+      - 'tools/**'
       - 'go-coach-source.zip'
       - 'go-coach-portraits.zip'
       - 'go-coach-wild-map.zip'
@@ -23,8 +25,15 @@ jobs:
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '8.11.1'
-      - name: Unpack source
-        run: unzip -q go-coach-source.zip -d project
+      - name: Verify source package matches readable source
+        run: |
+          python tools/package.py --check
+      - name: Run logic regression checks
+        run: |
+          mkdir -p .checks
+          curl --fail --silent --show-error --location https://repo.maven.apache.org/maven2/org/json/json/20240303/json-20240303.jar --output .checks/json.jar
+          echo '3cf6cd6892e32e2b4c1c39e0f52f5248a2f5b37646fdfbb79a66b46b618414ed  .checks/json.jar' | sha256sum --check
+          python tools/check.py --json-jar .checks/json.jar
       - name: Add optional Pokemon portraits
         run: |
           if [ -f go-coach-portraits.zip ]; then
@@ -38,12 +47,12 @@ jobs:
           fi
       - name: Install Android SDK
         run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
-      - name: Build debug APK
+      - name: Build and lint debug APK
         working-directory: project
-        run: gradle --no-daemon assembleDebug
+        run: gradle --no-daemon assembleDebug lintDebug
       - uses: actions/upload-artifact@v4
         with:
-          name: GO-Coach-v0.9.15-APK
+          name: GO-Coach-v0.9.20-APK
           path: project/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14
