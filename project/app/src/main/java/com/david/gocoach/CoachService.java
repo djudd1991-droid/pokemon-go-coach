@@ -706,7 +706,7 @@ public class CoachService extends Service {
 
   void overlay() {
     panel = new LinearLayout(this);
-    panel.setOrientation(1);
+    panel.setOrientation(LinearLayout.VERTICAL);
     panel.setPadding(dp(10), dp(6), dp(10), dp(6));
     panel.setBackground(background());
     panel.setElevation(0);
@@ -726,7 +726,7 @@ public class CoachService extends Service {
     readingScroll.addView(message);
     panel.addView(readingScroll, new LinearLayout.LayoutParams(-1, dp(100)));
     controls = new LinearLayout(this);
-    controls.setOrientation(1);
+    controls.setOrientation(LinearLayout.VERTICAL);
     panel.addView(controls);
     LinearLayout row = new LinearLayout(this);
     controls.addView(row);

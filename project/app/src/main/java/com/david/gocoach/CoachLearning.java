@@ -377,7 +377,7 @@ public final class CoachLearning {
     s.paused = true;
     s.generation++;
     LinearLayout rows = new LinearLayout(s);
-    rows.setOrientation(1);
+    rows.setOrientation(LinearLayout.VERTICAL);
     rows.setPadding(s.dp(12), s.dp(8), s.dp(12), s.dp(8));
     TextView explanation = new TextView(s);
     explanation.setText(

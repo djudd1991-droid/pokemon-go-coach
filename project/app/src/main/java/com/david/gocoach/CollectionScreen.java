@@ -60,7 +60,7 @@ final class CollectionScreen {
 
   LinearLayout column() {
     LinearLayout l = new LinearLayout(a);
-    l.setOrientation(1);
+    l.setOrientation(LinearLayout.VERTICAL);
     return l;
   }
 

@@ -1,3 +1,16 @@
+# GO Coach 0.9.20
+
+Use the readable source in this directory. Run checks and packaging from the
+repository root; see [DEVELOPMENT.md](DEVELOPMENT.md). The home screen and floating
+coach were refreshed, night scanning was simplified, and encounter learning now
+confirms the name with CP optional. Install the new test APK over the existing app.
+
+Current release notes and phone tests: [docs/0.9.20.md](../docs/0.9.20.md).
+
+## Historical release notes
+
+The instructions below describe older releases, not the current build workflow.
+
 # GO Coach 0.9.19 — lasting learning memory and coaching
 
 Replace only **go-coach-source.zip** at your GitHub repository root, build with the existing workflow and install the APK. Keep your portraits ZIP, wild-map ZIP and workflow. The app title shows 0.9.19. Install over the existing app to preserve its data.

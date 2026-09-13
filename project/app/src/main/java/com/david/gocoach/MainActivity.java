@@ -54,7 +54,7 @@ public class MainActivity extends Activity {
     collectionBack = null;
     ScrollView scroll = new ScrollView(this);
     body = new LinearLayout(this);
-    body.setOrientation(1);
+    body.setOrientation(LinearLayout.VERTICAL);
     body.setPadding(dp(22), dp(18), dp(22), dp(28));
     scroll.setFillViewport(true);
     scroll.setBackgroundColor(CoachUi.BACKGROUND);
