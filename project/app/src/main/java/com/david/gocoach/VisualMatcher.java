@@ -21,6 +21,7 @@ public final class VisualMatcher implements AutoCloseable {
     Point[] points;
     Mat descriptors;
     boolean priority;
+    long learnedAt;
   }
 
   final List<Reference> references = new ArrayList<>();
@@ -226,6 +227,7 @@ public final class VisualMatcher implements AutoCloseable {
       if (!addBitmap(species, crop, true)) return false;
       saveLearned(species, crop);
       trimLearned(species);
+      trimLearnedReferences();
       rebuildIndex();
       return true;
     } catch (Exception e) {
@@ -251,7 +253,10 @@ public final class VisualMatcher implements AutoCloseable {
       Bitmap bitmap = BitmapFactory.decodeFile(file.getAbsolutePath());
       if (bitmap == null) continue;
       try {
-        if (addBitmap(species, bitmap, true)) loaded++;
+        if (addBitmap(species, bitmap, true)) {
+          references.get(references.size() - 1).learnedAt = file.lastModified();
+          loaded++;
+        }
       } finally {
         bitmap.recycle();
       }
@@ -283,6 +288,7 @@ public final class VisualMatcher implements AutoCloseable {
       Reference ref = new Reference();
       ref.species = species;
       ref.priority = priority;
+      ref.learnedAt = System.currentTimeMillis();
       KeyPoint[] kp = keypoints.toArray();
       ref.points = new Point[kp.length];
       for (int i = 0; i < kp.length; i++) ref.points[i] = kp[i].pt;
@@ -310,6 +316,29 @@ public final class VisualMatcher implements AutoCloseable {
     Mat sample = new Mat((rows + 3) / 4, 128, CvType.CV_32F);
     sample.put(0, 0, sampled);
     return sample;
+  }
+
+  /** Match the existing disk limits in RAM during long coaching sessions. */
+  void trimLearnedReferences() {
+    List<Reference> learned = new ArrayList<>();
+    for (Reference ref : references) if (ref.learnedAt > 0) learned.add(ref);
+    learned.sort((a, b) -> Long.compare(b.learnedAt, a.learnedAt));
+    Map<String, Integer> perSpecies = new HashMap<>();
+    Set<Reference> keep = new HashSet<>();
+    for (Reference ref : learned) {
+      int count = perSpecies.getOrDefault(ref.species, 0);
+      if (keep.size() < 250 && count < 8) {
+        keep.add(ref);
+        perSpecies.put(ref.species, count + 1);
+      }
+    }
+    for (int i = references.size() - 1; i >= 0; i--) {
+      Reference ref = references.get(i);
+      if (ref.learnedAt > 0 && !keep.contains(ref)) {
+        references.remove(i).descriptors.release();
+        indexSamples.remove(i).release();
+      }
+    }
   }
 
   void rebuildIndex() {
