@@ -1,0 +1,410 @@
+[
+  {
+    "case": "cinderace",
+    "expected": "cinderace",
+    "prediction": "cinderace",
+    "correct": true,
+    "ranking": [
+      {
+        "reference": "cinderace",
+        "matches": 28,
+        "inliers": 26,
+        "coverage": 0.0662
+      },
+      {
+        "reference": "metagross-shiny",
+        "matches": 13,
+        "inliers": 6,
+        "coverage": 0.009
+      },
+      {
+        "reference": "armored-mewtwo",
+        "matches": 10,
+        "inliers": 4,
+        "coverage": 0.2203
+      },
+      {
+        "reference": "metagross",
+        "matches": 9,
+        "inliers": 4,
+        "coverage": 0.0135
+      },
+      {
+        "reference": "lapras-mystic",
+        "matches": 7,
+        "inliers": 4,
+        "coverage": 0.1651
+      },
+      {
+        "reference": "lapras",
+        "matches": 6,
+        "inliers": 4,
+        "coverage": 0.0311
+      },
+      {
+        "reference": "mewtwo",
+        "matches": 4,
+        "inliers": 4,
+        "coverage": 0.121
+      }
+    ],
+    "android_grouped_prediction": "Cinderace"
+  },
+  {
+    "case": "shiny-metagross",
+    "expected": "metagross-shiny",
+    "prediction": "metagross-shiny",
+    "correct": true,
+    "ranking": [
+      {
+        "reference": "metagross-shiny",
+        "matches": 123,
+        "inliers": 85,
+        "coverage": 0.13
+      },
+      {
+        "reference": "metagross",
+        "matches": 94,
+        "inliers": 60,
+        "coverage": 0.1465
+      },
+      {
+        "reference": "mewtwo",
+        "matches": 6,
+        "inliers": 4,
+        "coverage": 0.2148
+      },
+      {
+        "reference": "armored-mewtwo",
+        "matches": 5,
+        "inliers": 4,
+        "coverage": 0.1167
+      },
+      {
+        "reference": "lapras-mystic",
+        "matches": 4,
+        "inliers": 4,
+        "coverage": 0.1276
+      },
+      {
+        "reference": "lapras",
+        "matches": 4,
+        "inliers": 4,
+        "coverage": 0.0689
+      },
+      {
+        "reference": "cinderace",
+        "matches": 5,
+        "inliers": 0,
+        "coverage": 0
+      }
+    ],
+    "android_grouped_prediction": "Metagross"
+  },
+  {
+    "case": "decorated-lapras",
+    "expected": "lapras-mystic",
+    "prediction": "lapras-mystic",
+    "correct": true,
+    "ranking": [
+      {
+        "reference": "lapras-mystic",
+        "matches": 42,
+        "inliers": 32,
+        "coverage": 0.1581
+      },
+      {
+        "reference": "lapras",
+        "matches": 34,
+        "inliers": 23,
+        "coverage": 0.0801
+      },
+      {
+        "reference": "armored-mewtwo",
+        "matches": 13,
+        "inliers": 5,
+        "coverage": 0.0567
+      },
+      {
+        "reference": "metagross-shiny",
+        "matches": 11,
+        "inliers": 5,
+        "coverage": 0.0297
+      },
+      {
+        "reference": "metagross",
+        "matches": 10,
+        "inliers": 4,
+        "coverage": 0.0308
+      },
+      {
+        "reference": "cinderace",
+        "matches": 9,
+        "inliers": 4,
+        "coverage": 0.0722
+      },
+      {
+        "reference": "mewtwo",
+        "matches": 9,
+        "inliers": 4,
+        "coverage": 0.1761
+      }
+    ],
+    "android_grouped_prediction": "Lapras"
+  },
+  {
+    "case": "armored-mewtwo",
+    "expected": "armored-mewtwo",
+    "prediction": null,
+    "correct": false,
+    "ranking": [
+      {
+        "reference": "armored-mewtwo",
+        "matches": 19,
+        "inliers": 7,
+        "coverage": 0.0177
+      },
+      {
+        "reference": "lapras",
+        "matches": 11,
+        "inliers": 5,
+        "coverage": 0.196
+      },
+      {
+        "reference": "mewtwo",
+        "matches": 7,
+        "inliers": 4,
+        "coverage": 0.1891
+      },
+      {
+        "reference": "lapras-mystic",
+        "matches": 6,
+        "inliers": 4,
+        "coverage": 0.0723
+      },
+      {
+        "reference": "metagross-shiny",
+        "matches": 6,
+        "inliers": 4,
+        "coverage": 0.2589
+      },
+      {
+        "reference": "cinderace",
+        "matches": 2,
+        "inliers": 0,
+        "coverage": 0
+      },
+      {
+        "reference": "metagross",
+        "matches": 0,
+        "inliers": 0,
+        "coverage": 0
+      }
+    ],
+    "android_grouped_prediction": null
+  },
+  {
+    "case": "mewtwo",
+    "expected": "mewtwo",
+    "prediction": "mewtwo",
+    "correct": true,
+    "ranking": [
+      {
+        "reference": "mewtwo",
+        "matches": 19,
+        "inliers": 10,
+        "coverage": 0.0222
+      },
+      {
+        "reference": "armored-mewtwo",
+        "matches": 13,
+        "inliers": 5,
+        "coverage": 0.2015
+      },
+      {
+        "reference": "metagross-shiny",
+        "matches": 8,
+        "inliers": 5,
+        "coverage": 0.0315
+      },
+      {
+        "reference": "metagross",
+        "matches": 8,
+        "inliers": 5,
+        "coverage": 0.0494
+      },
+      {
+        "reference": "lapras",
+        "matches": 6,
+        "inliers": 4,
+        "coverage": 0.063
+      },
+      {
+        "reference": "lapras-mystic",
+        "matches": 4,
+        "inliers": 4,
+        "coverage": 0.0495
+      },
+      {
+        "reference": "cinderace",
+        "matches": 2,
+        "inliers": 0,
+        "coverage": 0
+      }
+    ],
+    "android_grouped_prediction": "Mewtwo"
+  },
+  {
+    "case": "glimmet-unseen",
+    "expected": null,
+    "prediction": null,
+    "correct": true,
+    "ranking": [
+      {
+        "reference": "lapras-mystic",
+        "matches": 5,
+        "inliers": 5,
+        "coverage": 0.1852
+      },
+      {
+        "reference": "armored-mewtwo",
+        "matches": 7,
+        "inliers": 4,
+        "coverage": 0.2603
+      },
+      {
+        "reference": "metagross-shiny",
+        "matches": 5,
+        "inliers": 4,
+        "coverage": 0.1365
+      },
+      {
+        "reference": "metagross",
+        "matches": 5,
+        "inliers": 0,
+        "coverage": 0
+      },
+      {
+        "reference": "mewtwo",
+        "matches": 3,
+        "inliers": 0,
+        "coverage": 0
+      },
+      {
+        "reference": "cinderace",
+        "matches": 2,
+        "inliers": 0,
+        "coverage": 0
+      },
+      {
+        "reference": "lapras",
+        "matches": 1,
+        "inliers": 0,
+        "coverage": 0
+      }
+    ],
+    "android_grouped_prediction": null
+  },
+  {
+    "case": "map-unrelated",
+    "expected": null,
+    "prediction": null,
+    "correct": true,
+    "ranking": [
+      {
+        "reference": "lapras-mystic",
+        "matches": 11,
+        "inliers": 5,
+        "coverage": 0.2209
+      },
+      {
+        "reference": "metagross",
+        "matches": 10,
+        "inliers": 4,
+        "coverage": 0.2605
+      },
+      {
+        "reference": "lapras",
+        "matches": 9,
+        "inliers": 4,
+        "coverage": 0.034
+      },
+      {
+        "reference": "armored-mewtwo",
+        "matches": 7,
+        "inliers": 4,
+        "coverage": 0.0084
+      },
+      {
+        "reference": "cinderace",
+        "matches": 6,
+        "inliers": 4,
+        "coverage": 0.0575
+      },
+      {
+        "reference": "metagross-shiny",
+        "matches": 6,
+        "inliers": 4,
+        "coverage": 0.0351
+      },
+      {
+        "reference": "mewtwo",
+        "matches": 6,
+        "inliers": 0,
+        "coverage": 0
+      }
+    ],
+    "android_grouped_prediction": null
+  },
+  {
+    "case": "bag-unrelated",
+    "expected": null,
+    "prediction": null,
+    "correct": true,
+    "ranking": [
+      {
+        "reference": "metagross-shiny",
+        "matches": 9,
+        "inliers": 5,
+        "coverage": 0.207
+      },
+      {
+        "reference": "armored-mewtwo",
+        "matches": 7,
+        "inliers": 5,
+        "coverage": 0.191
+      },
+      {
+        "reference": "lapras",
+        "matches": 11,
+        "inliers": 4,
+        "coverage": 0.0343
+      },
+      {
+        "reference": "metagross",
+        "matches": 9,
+        "inliers": 4,
+        "coverage": 0.0943
+      },
+      {
+        "reference": "cinderace",
+        "matches": 7,
+        "inliers": 4,
+        "coverage": 0.1103
+      },
+      {
+        "reference": "lapras-mystic",
+        "matches": 5,
+        "inliers": 4,
+        "coverage": 0.1853
+      },
+      {
+        "reference": "mewtwo",
+        "matches": 5,
+        "inliers": 0,
+        "coverage": 0
+      }
+    ],
+    "android_grouped_prediction": null
+  }
+]

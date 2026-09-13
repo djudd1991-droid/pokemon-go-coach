@@ -1,0 +1,5222 @@
+[
+  {
+    "name": "Bulbasaur",
+    "dex": 1,
+    "path": "Addressable Assets/pm1.icon.png",
+    "file": "1.png"
+  },
+  {
+    "name": "Ivysaur",
+    "dex": 2,
+    "path": "Addressable Assets/pm2.icon.png",
+    "file": "2.png"
+  },
+  {
+    "name": "Venusaur",
+    "dex": 3,
+    "path": "Addressable Assets/pm3.icon.png",
+    "file": "3.png"
+  },
+  {
+    "name": "Charmander",
+    "dex": 4,
+    "path": "Addressable Assets/pm4.icon.png",
+    "file": "4.png"
+  },
+  {
+    "name": "Charmeleon",
+    "dex": 5,
+    "path": "Addressable Assets/pm5.icon.png",
+    "file": "5.png"
+  },
+  {
+    "name": "Charizard",
+    "dex": 6,
+    "path": "Addressable Assets/pm6.icon.png",
+    "file": "6.png"
+  },
+  {
+    "name": "Squirtle",
+    "dex": 7,
+    "path": "Addressable Assets/pm7.icon.png",
+    "file": "7.png"
+  },
+  {
+    "name": "Wartortle",
+    "dex": 8,
+    "path": "Addressable Assets/pm8.icon.png",
+    "file": "8.png"
+  },
+  {
+    "name": "Blastoise",
+    "dex": 9,
+    "path": "Addressable Assets/pm9.icon.png",
+    "file": "9.png"
+  },
+  {
+    "name": "Caterpie",
+    "dex": 10,
+    "path": "Addressable Assets/pm10.icon.png",
+    "file": "10.png"
+  },
+  {
+    "name": "Metapod",
+    "dex": 11,
+    "path": "Addressable Assets/pm11.icon.png",
+    "file": "11.png"
+  },
+  {
+    "name": "Butterfree",
+    "dex": 12,
+    "path": "Addressable Assets/pm12.icon.png",
+    "file": "12.png"
+  },
+  {
+    "name": "Weedle",
+    "dex": 13,
+    "path": "Addressable Assets/pm13.icon.png",
+    "file": "13.png"
+  },
+  {
+    "name": "Kakuna",
+    "dex": 14,
+    "path": "Addressable Assets/pm14.icon.png",
+    "file": "14.png"
+  },
+  {
+    "name": "Beedrill",
+    "dex": 15,
+    "path": "Addressable Assets/pm15.icon.png",
+    "file": "15.png"
+  },
+  {
+    "name": "Pidgey",
+    "dex": 16,
+    "path": "Addressable Assets/pm16.icon.png",
+    "file": "16.png"
+  },
+  {
+    "name": "Pidgeotto",
+    "dex": 17,
+    "path": "Addressable Assets/pm17.icon.png",
+    "file": "17.png"
+  },
+  {
+    "name": "Pidgeot",
+    "dex": 18,
+    "path": "Addressable Assets/pm18.icon.png",
+    "file": "18.png"
+  },
+  {
+    "name": "Rattata",
+    "dex": 19,
+    "path": "Addressable Assets/pm19.icon.png",
+    "file": "19.png"
+  },
+  {
+    "name": "Raticate",
+    "dex": 20,
+    "path": "Addressable Assets/pm20.icon.png",
+    "file": "20.png"
+  },
+  {
+    "name": "Spearow",
+    "dex": 21,
+    "path": "Addressable Assets/pm21.icon.png",
+    "file": "21.png"
+  },
+  {
+    "name": "Fearow",
+    "dex": 22,
+    "path": "Addressable Assets/pm22.icon.png",
+    "file": "22.png"
+  },
+  {
+    "name": "Ekans",
+    "dex": 23,
+    "path": "Addressable Assets/pm23.icon.png",
+    "file": "23.png"
+  },
+  {
+    "name": "Arbok",
+    "dex": 24,
+    "path": "Addressable Assets/pm24.icon.png",
+    "file": "24.png"
+  },
+  {
+    "name": "Pikachu",
+    "dex": 25,
+    "path": "Addressable Assets/pm25.icon.png",
+    "file": "25.png"
+  },
+  {
+    "name": "Raichu",
+    "dex": 26,
+    "path": "Addressable Assets/pm26.icon.png",
+    "file": "26.png"
+  },
+  {
+    "name": "Sandshrew",
+    "dex": 27,
+    "path": "Addressable Assets/pm27.icon.png",
+    "file": "27.png"
+  },
+  {
+    "name": "Sandslash",
+    "dex": 28,
+    "path": "Addressable Assets/pm28.icon.png",
+    "file": "28.png"
+  },
+  {
+    "name": "Nidorina",
+    "dex": 30,
+    "path": "Addressable Assets/pm30.icon.png",
+    "file": "30.png"
+  },
+  {
+    "name": "Nidoqueen",
+    "dex": 31,
+    "path": "Addressable Assets/pm31.icon.png",
+    "file": "31.png"
+  },
+  {
+    "name": "Nidorino",
+    "dex": 33,
+    "path": "Addressable Assets/pm33.icon.png",
+    "file": "33.png"
+  },
+  {
+    "name": "Nidoking",
+    "dex": 34,
+    "path": "Addressable Assets/pm34.icon.png",
+    "file": "34.png"
+  },
+  {
+    "name": "Clefairy",
+    "dex": 35,
+    "path": "Addressable Assets/pm35.icon.png",
+    "file": "35.png"
+  },
+  {
+    "name": "Clefable",
+    "dex": 36,
+    "path": "Addressable Assets/pm36.icon.png",
+    "file": "36.png"
+  },
+  {
+    "name": "Vulpix",
+    "dex": 37,
+    "path": "Addressable Assets/pm37.icon.png",
+    "file": "37.png"
+  },
+  {
+    "name": "Ninetales",
+    "dex": 38,
+    "path": "Addressable Assets/pm38.icon.png",
+    "file": "38.png"
+  },
+  {
+    "name": "Jigglypuff",
+    "dex": 39,
+    "path": "Addressable Assets/pm39.icon.png",
+    "file": "39.png"
+  },
+  {
+    "name": "Wigglytuff",
+    "dex": 40,
+    "path": "Addressable Assets/pm40.icon.png",
+    "file": "40.png"
+  },
+  {
+    "name": "Zubat",
+    "dex": 41,
+    "path": "Addressable Assets/pm41.icon.png",
+    "file": "41.png"
+  },
+  {
+    "name": "Golbat",
+    "dex": 42,
+    "path": "Addressable Assets/pm42.icon.png",
+    "file": "42.png"
+  },
+  {
+    "name": "Oddish",
+    "dex": 43,
+    "path": "Addressable Assets/pm43.icon.png",
+    "file": "43.png"
+  },
+  {
+    "name": "Gloom",
+    "dex": 44,
+    "path": "Addressable Assets/pm44.icon.png",
+    "file": "44.png"
+  },
+  {
+    "name": "Vileplume",
+    "dex": 45,
+    "path": "Addressable Assets/pm45.icon.png",
+    "file": "45.png"
+  },
+  {
+    "name": "Paras",
+    "dex": 46,
+    "path": "Addressable Assets/pm46.icon.png",
+    "file": "46.png"
+  },
+  {
+    "name": "Parasect",
+    "dex": 47,
+    "path": "Addressable Assets/pm47.icon.png",
+    "file": "47.png"
+  },
+  {
+    "name": "Venonat",
+    "dex": 48,
+    "path": "Addressable Assets/pm48.icon.png",
+    "file": "48.png"
+  },
+  {
+    "name": "Venomoth",
+    "dex": 49,
+    "path": "Addressable Assets/pm49.icon.png",
+    "file": "49.png"
+  },
+  {
+    "name": "Diglett",
+    "dex": 50,
+    "path": "Addressable Assets/pm50.icon.png",
+    "file": "50.png"
+  },
+  {
+    "name": "Dugtrio",
+    "dex": 51,
+    "path": "Addressable Assets/pm51.icon.png",
+    "file": "51.png"
+  },
+  {
+    "name": "Meowth",
+    "dex": 52,
+    "path": "Addressable Assets/pm52.icon.png",
+    "file": "52.png"
+  },
+  {
+    "name": "Persian",
+    "dex": 53,
+    "path": "Addressable Assets/pm53.icon.png",
+    "file": "53.png"
+  },
+  {
+    "name": "Psyduck",
+    "dex": 54,
+    "path": "Addressable Assets/pm54.icon.png",
+    "file": "54.png"
+  },
+  {
+    "name": "Golduck",
+    "dex": 55,
+    "path": "Addressable Assets/pm55.icon.png",
+    "file": "55.png"
+  },
+  {
+    "name": "Mankey",
+    "dex": 56,
+    "path": "Addressable Assets/pm56.icon.png",
+    "file": "56.png"
+  },
+  {
+    "name": "Primeape",
+    "dex": 57,
+    "path": "Addressable Assets/pm57.icon.png",
+    "file": "57.png"
+  },
+  {
+    "name": "Growlithe",
+    "dex": 58,
+    "path": "Addressable Assets/pm58.icon.png",
+    "file": "58.png"
+  },
+  {
+    "name": "Arcanine",
+    "dex": 59,
+    "path": "Addressable Assets/pm59.icon.png",
+    "file": "59.png"
+  },
+  {
+    "name": "Poliwag",
+    "dex": 60,
+    "path": "Addressable Assets/pm60.icon.png",
+    "file": "60.png"
+  },
+  {
+    "name": "Poliwhirl",
+    "dex": 61,
+    "path": "Addressable Assets/pm61.icon.png",
+    "file": "61.png"
+  },
+  {
+    "name": "Poliwrath",
+    "dex": 62,
+    "path": "Addressable Assets/pm62.icon.png",
+    "file": "62.png"
+  },
+  {
+    "name": "Abra",
+    "dex": 63,
+    "path": "Addressable Assets/pm63.icon.png",
+    "file": "63.png"
+  },
+  {
+    "name": "Kadabra",
+    "dex": 64,
+    "path": "Addressable Assets/pm64.icon.png",
+    "file": "64.png"
+  },
+  {
+    "name": "Alakazam",
+    "dex": 65,
+    "path": "Addressable Assets/pm65.icon.png",
+    "file": "65.png"
+  },
+  {
+    "name": "Machop",
+    "dex": 66,
+    "path": "Addressable Assets/pm66.icon.png",
+    "file": "66.png"
+  },
+  {
+    "name": "Machoke",
+    "dex": 67,
+    "path": "Addressable Assets/pm67.icon.png",
+    "file": "67.png"
+  },
+  {
+    "name": "Machamp",
+    "dex": 68,
+    "path": "Addressable Assets/pm68.icon.png",
+    "file": "68.png"
+  },
+  {
+    "name": "Bellsprout",
+    "dex": 69,
+    "path": "Addressable Assets/pm69.icon.png",
+    "file": "69.png"
+  },
+  {
+    "name": "Weepinbell",
+    "dex": 70,
+    "path": "Addressable Assets/pm70.icon.png",
+    "file": "70.png"
+  },
+  {
+    "name": "Victreebel",
+    "dex": 71,
+    "path": "Addressable Assets/pm71.icon.png",
+    "file": "71.png"
+  },
+  {
+    "name": "Tentacool",
+    "dex": 72,
+    "path": "Addressable Assets/pm72.icon.png",
+    "file": "72.png"
+  },
+  {
+    "name": "Tentacruel",
+    "dex": 73,
+    "path": "Addressable Assets/pm73.icon.png",
+    "file": "73.png"
+  },
+  {
+    "name": "Geodude",
+    "dex": 74,
+    "path": "Addressable Assets/pm74.icon.png",
+    "file": "74.png"
+  },
+  {
+    "name": "Graveler",
+    "dex": 75,
+    "path": "Addressable Assets/pm75.icon.png",
+    "file": "75.png"
+  },
+  {
+    "name": "Golem",
+    "dex": 76,
+    "path": "Addressable Assets/pm76.icon.png",
+    "file": "76.png"
+  },
+  {
+    "name": "Ponyta",
+    "dex": 77,
+    "path": "Addressable Assets/pm77.icon.png",
+    "file": "77.png"
+  },
+  {
+    "name": "Rapidash",
+    "dex": 78,
+    "path": "Addressable Assets/pm78.icon.png",
+    "file": "78.png"
+  },
+  {
+    "name": "Slowpoke",
+    "dex": 79,
+    "path": "Addressable Assets/pm79.icon.png",
+    "file": "79.png"
+  },
+  {
+    "name": "Slowbro",
+    "dex": 80,
+    "path": "Addressable Assets/pm80.icon.png",
+    "file": "80.png"
+  },
+  {
+    "name": "Magnemite",
+    "dex": 81,
+    "path": "Addressable Assets/pm81.icon.png",
+    "file": "81.png"
+  },
+  {
+    "name": "Magneton",
+    "dex": 82,
+    "path": "Addressable Assets/pm82.icon.png",
+    "file": "82.png"
+  },
+  {
+    "name": "Farfetch'd",
+    "dex": 83,
+    "path": "Addressable Assets/pm83.icon.png",
+    "file": "83.png"
+  },
+  {
+    "name": "Doduo",
+    "dex": 84,
+    "path": "Addressable Assets/pm84.icon.png",
+    "file": "84.png"
+  },
+  {
+    "name": "Dodrio",
+    "dex": 85,
+    "path": "Addressable Assets/pm85.icon.png",
+    "file": "85.png"
+  },
+  {
+    "name": "Seel",
+    "dex": 86,
+    "path": "Addressable Assets/pm86.icon.png",
+    "file": "86.png"
+  },
+  {
+    "name": "Dewgong",
+    "dex": 87,
+    "path": "Addressable Assets/pm87.icon.png",
+    "file": "87.png"
+  },
+  {
+    "name": "Grimer",
+    "dex": 88,
+    "path": "Addressable Assets/pm88.icon.png",
+    "file": "88.png"
+  },
+  {
+    "name": "Muk",
+    "dex": 89,
+    "path": "Addressable Assets/pm89.icon.png",
+    "file": "89.png"
+  },
+  {
+    "name": "Shellder",
+    "dex": 90,
+    "path": "Addressable Assets/pm90.icon.png",
+    "file": "90.png"
+  },
+  {
+    "name": "Cloyster",
+    "dex": 91,
+    "path": "Addressable Assets/pm91.icon.png",
+    "file": "91.png"
+  },
+  {
+    "name": "Gastly",
+    "dex": 92,
+    "path": "Addressable Assets/pm92.icon.png",
+    "file": "92.png"
+  },
+  {
+    "name": "Haunter",
+    "dex": 93,
+    "path": "Addressable Assets/pm93.icon.png",
+    "file": "93.png"
+  },
+  {
+    "name": "Gengar",
+    "dex": 94,
+    "path": "Addressable Assets/pm94.icon.png",
+    "file": "94.png"
+  },
+  {
+    "name": "Onix",
+    "dex": 95,
+    "path": "Addressable Assets/pm95.icon.png",
+    "file": "95.png"
+  },
+  {
+    "name": "Drowzee",
+    "dex": 96,
+    "path": "Addressable Assets/pm96.icon.png",
+    "file": "96.png"
+  },
+  {
+    "name": "Hypno",
+    "dex": 97,
+    "path": "Addressable Assets/pm97.icon.png",
+    "file": "97.png"
+  },
+  {
+    "name": "Krabby",
+    "dex": 98,
+    "path": "Addressable Assets/pm98.icon.png",
+    "file": "98.png"
+  },
+  {
+    "name": "Kingler",
+    "dex": 99,
+    "path": "Addressable Assets/pm99.icon.png",
+    "file": "99.png"
+  },
+  {
+    "name": "Voltorb",
+    "dex": 100,
+    "path": "Addressable Assets/pm100.icon.png",
+    "file": "100.png"
+  },
+  {
+    "name": "Electrode",
+    "dex": 101,
+    "path": "Addressable Assets/pm101.icon.png",
+    "file": "101.png"
+  },
+  {
+    "name": "Exeggcute",
+    "dex": 102,
+    "path": "Addressable Assets/pm102.icon.png",
+    "file": "102.png"
+  },
+  {
+    "name": "Exeggutor",
+    "dex": 103,
+    "path": "Addressable Assets/pm103.icon.png",
+    "file": "103.png"
+  },
+  {
+    "name": "Cubone",
+    "dex": 104,
+    "path": "Addressable Assets/pm104.icon.png",
+    "file": "104.png"
+  },
+  {
+    "name": "Marowak",
+    "dex": 105,
+    "path": "Addressable Assets/pm105.icon.png",
+    "file": "105.png"
+  },
+  {
+    "name": "Hitmonlee",
+    "dex": 106,
+    "path": "Addressable Assets/pm106.icon.png",
+    "file": "106.png"
+  },
+  {
+    "name": "Hitmonchan",
+    "dex": 107,
+    "path": "Addressable Assets/pm107.icon.png",
+    "file": "107.png"
+  },
+  {
+    "name": "Lickitung",
+    "dex": 108,
+    "path": "Addressable Assets/pm108.icon.png",
+    "file": "108.png"
+  },
+  {
+    "name": "Koffing",
+    "dex": 109,
+    "path": "Addressable Assets/pm109.icon.png",
+    "file": "109.png"
+  },
+  {
+    "name": "Weezing",
+    "dex": 110,
+    "path": "Addressable Assets/pm110.icon.png",
+    "file": "110.png"
+  },
+  {
+    "name": "Rhyhorn",
+    "dex": 111,
+    "path": "Addressable Assets/pm111.icon.png",
+    "file": "111.png"
+  },
+  {
+    "name": "Rhydon",
+    "dex": 112,
+    "path": "Addressable Assets/pm112.icon.png",
+    "file": "112.png"
+  },
+  {
+    "name": "Chansey",
+    "dex": 113,
+    "path": "Addressable Assets/pm113.icon.png",
+    "file": "113.png"
+  },
+  {
+    "name": "Tangela",
+    "dex": 114,
+    "path": "Addressable Assets/pm114.icon.png",
+    "file": "114.png"
+  },
+  {
+    "name": "Kangaskhan",
+    "dex": 115,
+    "path": "Addressable Assets/pm115.icon.png",
+    "file": "115.png"
+  },
+  {
+    "name": "Horsea",
+    "dex": 116,
+    "path": "Addressable Assets/pm116.icon.png",
+    "file": "116.png"
+  },
+  {
+    "name": "Seadra",
+    "dex": 117,
+    "path": "Addressable Assets/pm117.icon.png",
+    "file": "117.png"
+  },
+  {
+    "name": "Goldeen",
+    "dex": 118,
+    "path": "Addressable Assets/pm118.icon.png",
+    "file": "118.png"
+  },
+  {
+    "name": "Seaking",
+    "dex": 119,
+    "path": "Addressable Assets/pm119.icon.png",
+    "file": "119.png"
+  },
+  {
+    "name": "Staryu",
+    "dex": 120,
+    "path": "Addressable Assets/pm120.icon.png",
+    "file": "120.png"
+  },
+  {
+    "name": "Starmie",
+    "dex": 121,
+    "path": "Addressable Assets/pm121.icon.png",
+    "file": "121.png"
+  },
+  {
+    "name": "Scyther",
+    "dex": 123,
+    "path": "Addressable Assets/pm123.icon.png",
+    "file": "123.png"
+  },
+  {
+    "name": "Jynx",
+    "dex": 124,
+    "path": "Addressable Assets/pm124.icon.png",
+    "file": "124.png"
+  },
+  {
+    "name": "Electabuzz",
+    "dex": 125,
+    "path": "Addressable Assets/pm125.icon.png",
+    "file": "125.png"
+  },
+  {
+    "name": "Magmar",
+    "dex": 126,
+    "path": "Addressable Assets/pm126.icon.png",
+    "file": "126.png"
+  },
+  {
+    "name": "Pinsir",
+    "dex": 127,
+    "path": "Addressable Assets/pm127.icon.png",
+    "file": "127.png"
+  },
+  {
+    "name": "Tauros",
+    "dex": 128,
+    "path": "Addressable Assets/pm128.icon.png",
+    "file": "128.png"
+  },
+  {
+    "name": "Magikarp",
+    "dex": 129,
+    "path": "Addressable Assets/pm129.icon.png",
+    "file": "129.png"
+  },
+  {
+    "name": "Gyarados",
+    "dex": 130,
+    "path": "Addressable Assets/pm130.icon.png",
+    "file": "130.png"
+  },
+  {
+    "name": "Lapras",
+    "dex": 131,
+    "path": "Addressable Assets/pm131.icon.png",
+    "file": "131.png"
+  },
+  {
+    "name": "Ditto",
+    "dex": 132,
+    "path": "Addressable Assets/pm132.icon.png",
+    "file": "132.png"
+  },
+  {
+    "name": "Eevee",
+    "dex": 133,
+    "path": "Addressable Assets/pm133.icon.png",
+    "file": "133.png"
+  },
+  {
+    "name": "Vaporeon",
+    "dex": 134,
+    "path": "Addressable Assets/pm134.icon.png",
+    "file": "134.png"
+  },
+  {
+    "name": "Jolteon",
+    "dex": 135,
+    "path": "Addressable Assets/pm135.icon.png",
+    "file": "135.png"
+  },
+  {
+    "name": "Flareon",
+    "dex": 136,
+    "path": "Addressable Assets/pm136.icon.png",
+    "file": "136.png"
+  },
+  {
+    "name": "Porygon",
+    "dex": 137,
+    "path": "Addressable Assets/pm137.icon.png",
+    "file": "137.png"
+  },
+  {
+    "name": "Omanyte",
+    "dex": 138,
+    "path": "Addressable Assets/pm138.icon.png",
+    "file": "138.png"
+  },
+  {
+    "name": "Omastar",
+    "dex": 139,
+    "path": "Addressable Assets/pm139.icon.png",
+    "file": "139.png"
+  },
+  {
+    "name": "Kabuto",
+    "dex": 140,
+    "path": "Addressable Assets/pm140.icon.png",
+    "file": "140.png"
+  },
+  {
+    "name": "Kabutops",
+    "dex": 141,
+    "path": "Addressable Assets/pm141.icon.png",
+    "file": "141.png"
+  },
+  {
+    "name": "Aerodactyl",
+    "dex": 142,
+    "path": "Addressable Assets/pm142.icon.png",
+    "file": "142.png"
+  },
+  {
+    "name": "Snorlax",
+    "dex": 143,
+    "path": "Addressable Assets/pm143.icon.png",
+    "file": "143.png"
+  },
+  {
+    "name": "Articuno",
+    "dex": 144,
+    "path": "Addressable Assets/pm144.icon.png",
+    "file": "144.png"
+  },
+  {
+    "name": "Zapdos",
+    "dex": 145,
+    "path": "Addressable Assets/pm145.icon.png",
+    "file": "145.png"
+  },
+  {
+    "name": "Moltres",
+    "dex": 146,
+    "path": "Addressable Assets/pm146.icon.png",
+    "file": "146.png"
+  },
+  {
+    "name": "Dratini",
+    "dex": 147,
+    "path": "Addressable Assets/pm147.icon.png",
+    "file": "147.png"
+  },
+  {
+    "name": "Dragonair",
+    "dex": 148,
+    "path": "Addressable Assets/pm148.icon.png",
+    "file": "148.png"
+  },
+  {
+    "name": "Dragonite",
+    "dex": 149,
+    "path": "Addressable Assets/pm149.icon.png",
+    "file": "149.png"
+  },
+  {
+    "name": "Mewtwo",
+    "dex": 150,
+    "path": "Addressable Assets/pm150.icon.png",
+    "file": "150.png"
+  },
+  {
+    "name": "Mew",
+    "dex": 151,
+    "path": "Addressable Assets/pm151.icon.png",
+    "file": "151.png"
+  },
+  {
+    "name": "Chikorita",
+    "dex": 152,
+    "path": "Addressable Assets/pm152.icon.png",
+    "file": "152.png"
+  },
+  {
+    "name": "Bayleef",
+    "dex": 153,
+    "path": "Addressable Assets/pm153.icon.png",
+    "file": "153.png"
+  },
+  {
+    "name": "Meganium",
+    "dex": 154,
+    "path": "Addressable Assets/pm154.icon.png",
+    "file": "154.png"
+  },
+  {
+    "name": "Cyndaquil",
+    "dex": 155,
+    "path": "Addressable Assets/pm155.icon.png",
+    "file": "155.png"
+  },
+  {
+    "name": "Quilava",
+    "dex": 156,
+    "path": "Addressable Assets/pm156.icon.png",
+    "file": "156.png"
+  },
+  {
+    "name": "Typhlosion",
+    "dex": 157,
+    "path": "Addressable Assets/pm157.icon.png",
+    "file": "157.png"
+  },
+  {
+    "name": "Totodile",
+    "dex": 158,
+    "path": "Addressable Assets/pm158.icon.png",
+    "file": "158.png"
+  },
+  {
+    "name": "Croconaw",
+    "dex": 159,
+    "path": "Addressable Assets/pm159.icon.png",
+    "file": "159.png"
+  },
+  {
+    "name": "Feraligatr",
+    "dex": 160,
+    "path": "Addressable Assets/pm160.icon.png",
+    "file": "160.png"
+  },
+  {
+    "name": "Sentret",
+    "dex": 161,
+    "path": "Addressable Assets/pm161.icon.png",
+    "file": "161.png"
+  },
+  {
+    "name": "Furret",
+    "dex": 162,
+    "path": "Addressable Assets/pm162.icon.png",
+    "file": "162.png"
+  },
+  {
+    "name": "Hoothoot",
+    "dex": 163,
+    "path": "Addressable Assets/pm163.icon.png",
+    "file": "163.png"
+  },
+  {
+    "name": "Noctowl",
+    "dex": 164,
+    "path": "Addressable Assets/pm164.icon.png",
+    "file": "164.png"
+  },
+  {
+    "name": "Ledyba",
+    "dex": 165,
+    "path": "Addressable Assets/pm165.icon.png",
+    "file": "165.png"
+  },
+  {
+    "name": "Ledian",
+    "dex": 166,
+    "path": "Addressable Assets/pm166.icon.png",
+    "file": "166.png"
+  },
+  {
+    "name": "Spinarak",
+    "dex": 167,
+    "path": "Addressable Assets/pm167.icon.png",
+    "file": "167.png"
+  },
+  {
+    "name": "Ariados",
+    "dex": 168,
+    "path": "Addressable Assets/pm168.icon.png",
+    "file": "168.png"
+  },
+  {
+    "name": "Crobat",
+    "dex": 169,
+    "path": "Addressable Assets/pm169.icon.png",
+    "file": "169.png"
+  },
+  {
+    "name": "Chinchou",
+    "dex": 170,
+    "path": "Addressable Assets/pm170.icon.png",
+    "file": "170.png"
+  },
+  {
+    "name": "Lanturn",
+    "dex": 171,
+    "path": "Addressable Assets/pm171.icon.png",
+    "file": "171.png"
+  },
+  {
+    "name": "Pichu",
+    "dex": 172,
+    "path": "Addressable Assets/pm172.icon.png",
+    "file": "172.png"
+  },
+  {
+    "name": "Cleffa",
+    "dex": 173,
+    "path": "Addressable Assets/pm173.icon.png",
+    "file": "173.png"
+  },
+  {
+    "name": "Igglybuff",
+    "dex": 174,
+    "path": "Addressable Assets/pm174.icon.png",
+    "file": "174.png"
+  },
+  {
+    "name": "Togepi",
+    "dex": 175,
+    "path": "Addressable Assets/pm175.icon.png",
+    "file": "175.png"
+  },
+  {
+    "name": "Togetic",
+    "dex": 176,
+    "path": "Addressable Assets/pm176.icon.png",
+    "file": "176.png"
+  },
+  {
+    "name": "Natu",
+    "dex": 177,
+    "path": "Addressable Assets/pm177.icon.png",
+    "file": "177.png"
+  },
+  {
+    "name": "Xatu",
+    "dex": 178,
+    "path": "Addressable Assets/pm178.icon.png",
+    "file": "178.png"
+  },
+  {
+    "name": "Mareep",
+    "dex": 179,
+    "path": "Addressable Assets/pm179.icon.png",
+    "file": "179.png"
+  },
+  {
+    "name": "Flaaffy",
+    "dex": 180,
+    "path": "Addressable Assets/pm180.icon.png",
+    "file": "180.png"
+  },
+  {
+    "name": "Ampharos",
+    "dex": 181,
+    "path": "Addressable Assets/pm181.icon.png",
+    "file": "181.png"
+  },
+  {
+    "name": "Bellossom",
+    "dex": 182,
+    "path": "Addressable Assets/pm182.icon.png",
+    "file": "182.png"
+  },
+  {
+    "name": "Marill",
+    "dex": 183,
+    "path": "Addressable Assets/pm183.icon.png",
+    "file": "183.png"
+  },
+  {
+    "name": "Azumarill",
+    "dex": 184,
+    "path": "Addressable Assets/pm184.icon.png",
+    "file": "184.png"
+  },
+  {
+    "name": "Sudowoodo",
+    "dex": 185,
+    "path": "Addressable Assets/pm185.icon.png",
+    "file": "185.png"
+  },
+  {
+    "name": "Politoed",
+    "dex": 186,
+    "path": "Addressable Assets/pm186.icon.png",
+    "file": "186.png"
+  },
+  {
+    "name": "Hoppip",
+    "dex": 187,
+    "path": "Addressable Assets/pm187.icon.png",
+    "file": "187.png"
+  },
+  {
+    "name": "Skiploom",
+    "dex": 188,
+    "path": "Addressable Assets/pm188.icon.png",
+    "file": "188.png"
+  },
+  {
+    "name": "Jumpluff",
+    "dex": 189,
+    "path": "Addressable Assets/pm189.icon.png",
+    "file": "189.png"
+  },
+  {
+    "name": "Aipom",
+    "dex": 190,
+    "path": "Addressable Assets/pm190.icon.png",
+    "file": "190.png"
+  },
+  {
+    "name": "Sunkern",
+    "dex": 191,
+    "path": "Addressable Assets/pm191.icon.png",
+    "file": "191.png"
+  },
+  {
+    "name": "Sunflora",
+    "dex": 192,
+    "path": "Addressable Assets/pm192.icon.png",
+    "file": "192.png"
+  },
+  {
+    "name": "Yanma",
+    "dex": 193,
+    "path": "Addressable Assets/pm193.icon.png",
+    "file": "193.png"
+  },
+  {
+    "name": "Wooper",
+    "dex": 194,
+    "path": "Addressable Assets/pm194.icon.png",
+    "file": "194.png"
+  },
+  {
+    "name": "Quagsire",
+    "dex": 195,
+    "path": "Addressable Assets/pm195.icon.png",
+    "file": "195.png"
+  },
+  {
+    "name": "Espeon",
+    "dex": 196,
+    "path": "Addressable Assets/pm196.icon.png",
+    "file": "196.png"
+  },
+  {
+    "name": "Umbreon",
+    "dex": 197,
+    "path": "Addressable Assets/pm197.icon.png",
+    "file": "197.png"
+  },
+  {
+    "name": "Murkrow",
+    "dex": 198,
+    "path": "Addressable Assets/pm198.icon.png",
+    "file": "198.png"
+  },
+  {
+    "name": "Slowking",
+    "dex": 199,
+    "path": "Addressable Assets/pm199.icon.png",
+    "file": "199.png"
+  },
+  {
+    "name": "Misdreavus",
+    "dex": 200,
+    "path": "Addressable Assets/pm200.icon.png",
+    "file": "200.png"
+  },
+  {
+    "name": "Wobbuffet",
+    "dex": 202,
+    "path": "Addressable Assets/pm202.icon.png",
+    "file": "202.png"
+  },
+  {
+    "name": "Girafarig",
+    "dex": 203,
+    "path": "Addressable Assets/pm203.icon.png",
+    "file": "203.png"
+  },
+  {
+    "name": "Pineco",
+    "dex": 204,
+    "path": "Addressable Assets/pm204.icon.png",
+    "file": "204.png"
+  },
+  {
+    "name": "Forretress",
+    "dex": 205,
+    "path": "Addressable Assets/pm205.icon.png",
+    "file": "205.png"
+  },
+  {
+    "name": "Dunsparce",
+    "dex": 206,
+    "path": "Addressable Assets/pm206.icon.png",
+    "file": "206.png"
+  },
+  {
+    "name": "Gligar",
+    "dex": 207,
+    "path": "Addressable Assets/pm207.icon.png",
+    "file": "207.png"
+  },
+  {
+    "name": "Steelix",
+    "dex": 208,
+    "path": "Addressable Assets/pm208.icon.png",
+    "file": "208.png"
+  },
+  {
+    "name": "Snubbull",
+    "dex": 209,
+    "path": "Addressable Assets/pm209.icon.png",
+    "file": "209.png"
+  },
+  {
+    "name": "Granbull",
+    "dex": 210,
+    "path": "Addressable Assets/pm210.icon.png",
+    "file": "210.png"
+  },
+  {
+    "name": "Qwilfish",
+    "dex": 211,
+    "path": "Addressable Assets/pm211.icon.png",
+    "file": "211.png"
+  },
+  {
+    "name": "Scizor",
+    "dex": 212,
+    "path": "Addressable Assets/pm212.icon.png",
+    "file": "212.png"
+  },
+  {
+    "name": "Shuckle",
+    "dex": 213,
+    "path": "Addressable Assets/pm213.icon.png",
+    "file": "213.png"
+  },
+  {
+    "name": "Heracross",
+    "dex": 214,
+    "path": "Addressable Assets/pm214.icon.png",
+    "file": "214.png"
+  },
+  {
+    "name": "Sneasel",
+    "dex": 215,
+    "path": "Addressable Assets/pm215.icon.png",
+    "file": "215.png"
+  },
+  {
+    "name": "Teddiursa",
+    "dex": 216,
+    "path": "Addressable Assets/pm216.icon.png",
+    "file": "216.png"
+  },
+  {
+    "name": "Ursaring",
+    "dex": 217,
+    "path": "Addressable Assets/pm217.icon.png",
+    "file": "217.png"
+  },
+  {
+    "name": "Slugma",
+    "dex": 218,
+    "path": "Addressable Assets/pm218.icon.png",
+    "file": "218.png"
+  },
+  {
+    "name": "Magcargo",
+    "dex": 219,
+    "path": "Addressable Assets/pm219.icon.png",
+    "file": "219.png"
+  },
+  {
+    "name": "Swinub",
+    "dex": 220,
+    "path": "Addressable Assets/pm220.icon.png",
+    "file": "220.png"
+  },
+  {
+    "name": "Piloswine",
+    "dex": 221,
+    "path": "Addressable Assets/pm221.icon.png",
+    "file": "221.png"
+  },
+  {
+    "name": "Corsola",
+    "dex": 222,
+    "path": "Addressable Assets/pm222.icon.png",
+    "file": "222.png"
+  },
+  {
+    "name": "Remoraid",
+    "dex": 223,
+    "path": "Addressable Assets/pm223.icon.png",
+    "file": "223.png"
+  },
+  {
+    "name": "Octillery",
+    "dex": 224,
+    "path": "Addressable Assets/pm224.icon.png",
+    "file": "224.png"
+  },
+  {
+    "name": "Delibird",
+    "dex": 225,
+    "path": "Addressable Assets/pm225.icon.png",
+    "file": "225.png"
+  },
+  {
+    "name": "Mantine",
+    "dex": 226,
+    "path": "Addressable Assets/pm226.icon.png",
+    "file": "226.png"
+  },
+  {
+    "name": "Skarmory",
+    "dex": 227,
+    "path": "Addressable Assets/pm227.icon.png",
+    "file": "227.png"
+  },
+  {
+    "name": "Houndour",
+    "dex": 228,
+    "path": "Addressable Assets/pm228.icon.png",
+    "file": "228.png"
+  },
+  {
+    "name": "Houndoom",
+    "dex": 229,
+    "path": "Addressable Assets/pm229.icon.png",
+    "file": "229.png"
+  },
+  {
+    "name": "Kingdra",
+    "dex": 230,
+    "path": "Addressable Assets/pm230.icon.png",
+    "file": "230.png"
+  },
+  {
+    "name": "Phanpy",
+    "dex": 231,
+    "path": "Addressable Assets/pm231.icon.png",
+    "file": "231.png"
+  },
+  {
+    "name": "Donphan",
+    "dex": 232,
+    "path": "Addressable Assets/pm232.icon.png",
+    "file": "232.png"
+  },
+  {
+    "name": "Porygon2",
+    "dex": 233,
+    "path": "Addressable Assets/pm233.icon.png",
+    "file": "233.png"
+  },
+  {
+    "name": "Stantler",
+    "dex": 234,
+    "path": "Addressable Assets/pm234.icon.png",
+    "file": "234.png"
+  },
+  {
+    "name": "Smeargle",
+    "dex": 235,
+    "path": "Addressable Assets/pm235.icon.png",
+    "file": "235.png"
+  },
+  {
+    "name": "Tyrogue",
+    "dex": 236,
+    "path": "Addressable Assets/pm236.icon.png",
+    "file": "236.png"
+  },
+  {
+    "name": "Hitmontop",
+    "dex": 237,
+    "path": "Addressable Assets/pm237.icon.png",
+    "file": "237.png"
+  },
+  {
+    "name": "Smoochum",
+    "dex": 238,
+    "path": "Addressable Assets/pm238.icon.png",
+    "file": "238.png"
+  },
+  {
+    "name": "Elekid",
+    "dex": 239,
+    "path": "Addressable Assets/pm239.icon.png",
+    "file": "239.png"
+  },
+  {
+    "name": "Magby",
+    "dex": 240,
+    "path": "Addressable Assets/pm240.icon.png",
+    "file": "240.png"
+  },
+  {
+    "name": "Miltank",
+    "dex": 241,
+    "path": "Addressable Assets/pm241.icon.png",
+    "file": "241.png"
+  },
+  {
+    "name": "Blissey",
+    "dex": 242,
+    "path": "Addressable Assets/pm242.icon.png",
+    "file": "242.png"
+  },
+  {
+    "name": "Raikou",
+    "dex": 243,
+    "path": "Addressable Assets/pm243.icon.png",
+    "file": "243.png"
+  },
+  {
+    "name": "Entei",
+    "dex": 244,
+    "path": "Addressable Assets/pm244.icon.png",
+    "file": "244.png"
+  },
+  {
+    "name": "Suicune",
+    "dex": 245,
+    "path": "Addressable Assets/pm245.icon.png",
+    "file": "245.png"
+  },
+  {
+    "name": "Larvitar",
+    "dex": 246,
+    "path": "Addressable Assets/pm246.icon.png",
+    "file": "246.png"
+  },
+  {
+    "name": "Pupitar",
+    "dex": 247,
+    "path": "Addressable Assets/pm247.icon.png",
+    "file": "247.png"
+  },
+  {
+    "name": "Tyranitar",
+    "dex": 248,
+    "path": "Addressable Assets/pm248.icon.png",
+    "file": "248.png"
+  },
+  {
+    "name": "Lugia",
+    "dex": 249,
+    "path": "Addressable Assets/pm249.icon.png",
+    "file": "249.png"
+  },
+  {
+    "name": "Celebi",
+    "dex": 251,
+    "path": "Addressable Assets/pm251.icon.png",
+    "file": "251.png"
+  },
+  {
+    "name": "Treecko",
+    "dex": 252,
+    "path": "Addressable Assets/pm252.icon.png",
+    "file": "252.png"
+  },
+  {
+    "name": "Grovyle",
+    "dex": 253,
+    "path": "Addressable Assets/pm253.icon.png",
+    "file": "253.png"
+  },
+  {
+    "name": "Sceptile",
+    "dex": 254,
+    "path": "Addressable Assets/pm254.icon.png",
+    "file": "254.png"
+  },
+  {
+    "name": "Torchic",
+    "dex": 255,
+    "path": "Addressable Assets/pm255.icon.png",
+    "file": "255.png"
+  },
+  {
+    "name": "Combusken",
+    "dex": 256,
+    "path": "Addressable Assets/pm256.icon.png",
+    "file": "256.png"
+  },
+  {
+    "name": "Blaziken",
+    "dex": 257,
+    "path": "Addressable Assets/pm257.icon.png",
+    "file": "257.png"
+  },
+  {
+    "name": "Mudkip",
+    "dex": 258,
+    "path": "Addressable Assets/pm258.icon.png",
+    "file": "258.png"
+  },
+  {
+    "name": "Marshtomp",
+    "dex": 259,
+    "path": "Addressable Assets/pm259.icon.png",
+    "file": "259.png"
+  },
+  {
+    "name": "Swampert",
+    "dex": 260,
+    "path": "Addressable Assets/pm260.icon.png",
+    "file": "260.png"
+  },
+  {
+    "name": "Poochyena",
+    "dex": 261,
+    "path": "Addressable Assets/pm261.icon.png",
+    "file": "261.png"
+  },
+  {
+    "name": "Mightyena",
+    "dex": 262,
+    "path": "Addressable Assets/pm262.icon.png",
+    "file": "262.png"
+  },
+  {
+    "name": "Zigzagoon",
+    "dex": 263,
+    "path": "Addressable Assets/pm263.icon.png",
+    "file": "263.png"
+  },
+  {
+    "name": "Linoone",
+    "dex": 264,
+    "path": "Addressable Assets/pm264.icon.png",
+    "file": "264.png"
+  },
+  {
+    "name": "Wurmple",
+    "dex": 265,
+    "path": "Addressable Assets/pm265.icon.png",
+    "file": "265.png"
+  },
+  {
+    "name": "Silcoon",
+    "dex": 266,
+    "path": "Addressable Assets/pm266.icon.png",
+    "file": "266.png"
+  },
+  {
+    "name": "Beautifly",
+    "dex": 267,
+    "path": "Addressable Assets/pm267.icon.png",
+    "file": "267.png"
+  },
+  {
+    "name": "Cascoon",
+    "dex": 268,
+    "path": "Addressable Assets/pm268.icon.png",
+    "file": "268.png"
+  },
+  {
+    "name": "Dustox",
+    "dex": 269,
+    "path": "Addressable Assets/pm269.icon.png",
+    "file": "269.png"
+  },
+  {
+    "name": "Lotad",
+    "dex": 270,
+    "path": "Addressable Assets/pm270.icon.png",
+    "file": "270.png"
+  },
+  {
+    "name": "Lombre",
+    "dex": 271,
+    "path": "Addressable Assets/pm271.icon.png",
+    "file": "271.png"
+  },
+  {
+    "name": "Ludicolo",
+    "dex": 272,
+    "path": "Addressable Assets/pm272.icon.png",
+    "file": "272.png"
+  },
+  {
+    "name": "Seedot",
+    "dex": 273,
+    "path": "Addressable Assets/pm273.icon.png",
+    "file": "273.png"
+  },
+  {
+    "name": "Nuzleaf",
+    "dex": 274,
+    "path": "Addressable Assets/pm274.icon.png",
+    "file": "274.png"
+  },
+  {
+    "name": "Shiftry",
+    "dex": 275,
+    "path": "Addressable Assets/pm275.icon.png",
+    "file": "275.png"
+  },
+  {
+    "name": "Taillow",
+    "dex": 276,
+    "path": "Addressable Assets/pm276.icon.png",
+    "file": "276.png"
+  },
+  {
+    "name": "Swellow",
+    "dex": 277,
+    "path": "Addressable Assets/pm277.icon.png",
+    "file": "277.png"
+  },
+  {
+    "name": "Wingull",
+    "dex": 278,
+    "path": "Addressable Assets/pm278.icon.png",
+    "file": "278.png"
+  },
+  {
+    "name": "Pelipper",
+    "dex": 279,
+    "path": "Addressable Assets/pm279.icon.png",
+    "file": "279.png"
+  },
+  {
+    "name": "Ralts",
+    "dex": 280,
+    "path": "Addressable Assets/pm280.icon.png",
+    "file": "280.png"
+  },
+  {
+    "name": "Kirlia",
+    "dex": 281,
+    "path": "Addressable Assets/pm281.icon.png",
+    "file": "281.png"
+  },
+  {
+    "name": "Gardevoir",
+    "dex": 282,
+    "path": "Addressable Assets/pm282.icon.png",
+    "file": "282.png"
+  },
+  {
+    "name": "Surskit",
+    "dex": 283,
+    "path": "Addressable Assets/pm283.icon.png",
+    "file": "283.png"
+  },
+  {
+    "name": "Masquerain",
+    "dex": 284,
+    "path": "Addressable Assets/pm284.icon.png",
+    "file": "284.png"
+  },
+  {
+    "name": "Shroomish",
+    "dex": 285,
+    "path": "Addressable Assets/pm285.icon.png",
+    "file": "285.png"
+  },
+  {
+    "name": "Breloom",
+    "dex": 286,
+    "path": "Addressable Assets/pm286.icon.png",
+    "file": "286.png"
+  },
+  {
+    "name": "Slakoth",
+    "dex": 287,
+    "path": "Addressable Assets/pm287.icon.png",
+    "file": "287.png"
+  },
+  {
+    "name": "Vigoroth",
+    "dex": 288,
+    "path": "Addressable Assets/pm288.icon.png",
+    "file": "288.png"
+  },
+  {
+    "name": "Slaking",
+    "dex": 289,
+    "path": "Addressable Assets/pm289.icon.png",
+    "file": "289.png"
+  },
+  {
+    "name": "Nincada",
+    "dex": 290,
+    "path": "Addressable Assets/pm290.icon.png",
+    "file": "290.png"
+  },
+  {
+    "name": "Ninjask",
+    "dex": 291,
+    "path": "Addressable Assets/pm291.icon.png",
+    "file": "291.png"
+  },
+  {
+    "name": "Shedinja",
+    "dex": 292,
+    "path": "Addressable Assets/pm292.icon.png",
+    "file": "292.png"
+  },
+  {
+    "name": "Whismur",
+    "dex": 293,
+    "path": "Addressable Assets/pm293.icon.png",
+    "file": "293.png"
+  },
+  {
+    "name": "Loudred",
+    "dex": 294,
+    "path": "Addressable Assets/pm294.icon.png",
+    "file": "294.png"
+  },
+  {
+    "name": "Exploud",
+    "dex": 295,
+    "path": "Addressable Assets/pm295.icon.png",
+    "file": "295.png"
+  },
+  {
+    "name": "Makuhita",
+    "dex": 296,
+    "path": "Addressable Assets/pm296.icon.png",
+    "file": "296.png"
+  },
+  {
+    "name": "Hariyama",
+    "dex": 297,
+    "path": "Addressable Assets/pm297.icon.png",
+    "file": "297.png"
+  },
+  {
+    "name": "Azurill",
+    "dex": 298,
+    "path": "Addressable Assets/pm298.icon.png",
+    "file": "298.png"
+  },
+  {
+    "name": "Nosepass",
+    "dex": 299,
+    "path": "Addressable Assets/pm299.icon.png",
+    "file": "299.png"
+  },
+  {
+    "name": "Skitty",
+    "dex": 300,
+    "path": "Addressable Assets/pm300.icon.png",
+    "file": "300.png"
+  },
+  {
+    "name": "Delcatty",
+    "dex": 301,
+    "path": "Addressable Assets/pm301.icon.png",
+    "file": "301.png"
+  },
+  {
+    "name": "Sableye",
+    "dex": 302,
+    "path": "Addressable Assets/pm302.icon.png",
+    "file": "302.png"
+  },
+  {
+    "name": "Mawile",
+    "dex": 303,
+    "path": "Addressable Assets/pm303.icon.png",
+    "file": "303.png"
+  },
+  {
+    "name": "Aron",
+    "dex": 304,
+    "path": "Addressable Assets/pm304.icon.png",
+    "file": "304.png"
+  },
+  {
+    "name": "Lairon",
+    "dex": 305,
+    "path": "Addressable Assets/pm305.icon.png",
+    "file": "305.png"
+  },
+  {
+    "name": "Aggron",
+    "dex": 306,
+    "path": "Addressable Assets/pm306.icon.png",
+    "file": "306.png"
+  },
+  {
+    "name": "Meditite",
+    "dex": 307,
+    "path": "Addressable Assets/pm307.icon.png",
+    "file": "307.png"
+  },
+  {
+    "name": "Medicham",
+    "dex": 308,
+    "path": "Addressable Assets/pm308.icon.png",
+    "file": "308.png"
+  },
+  {
+    "name": "Electrike",
+    "dex": 309,
+    "path": "Addressable Assets/pm309.icon.png",
+    "file": "309.png"
+  },
+  {
+    "name": "Manectric",
+    "dex": 310,
+    "path": "Addressable Assets/pm310.icon.png",
+    "file": "310.png"
+  },
+  {
+    "name": "Plusle",
+    "dex": 311,
+    "path": "Addressable Assets/pm311.icon.png",
+    "file": "311.png"
+  },
+  {
+    "name": "Minun",
+    "dex": 312,
+    "path": "Addressable Assets/pm312.icon.png",
+    "file": "312.png"
+  },
+  {
+    "name": "Volbeat",
+    "dex": 313,
+    "path": "Addressable Assets/pm313.icon.png",
+    "file": "313.png"
+  },
+  {
+    "name": "Illumise",
+    "dex": 314,
+    "path": "Addressable Assets/pm314.icon.png",
+    "file": "314.png"
+  },
+  {
+    "name": "Roselia",
+    "dex": 315,
+    "path": "Addressable Assets/pm315.icon.png",
+    "file": "315.png"
+  },
+  {
+    "name": "Gulpin",
+    "dex": 316,
+    "path": "Addressable Assets/pm316.icon.png",
+    "file": "316.png"
+  },
+  {
+    "name": "Swalot",
+    "dex": 317,
+    "path": "Addressable Assets/pm317.icon.png",
+    "file": "317.png"
+  },
+  {
+    "name": "Carvanha",
+    "dex": 318,
+    "path": "Addressable Assets/pm318.icon.png",
+    "file": "318.png"
+  },
+  {
+    "name": "Sharpedo",
+    "dex": 319,
+    "path": "Addressable Assets/pm319.icon.png",
+    "file": "319.png"
+  },
+  {
+    "name": "Wailmer",
+    "dex": 320,
+    "path": "Addressable Assets/pm320.icon.png",
+    "file": "320.png"
+  },
+  {
+    "name": "Wailord",
+    "dex": 321,
+    "path": "Addressable Assets/pm321.icon.png",
+    "file": "321.png"
+  },
+  {
+    "name": "Numel",
+    "dex": 322,
+    "path": "Addressable Assets/pm322.icon.png",
+    "file": "322.png"
+  },
+  {
+    "name": "Camerupt",
+    "dex": 323,
+    "path": "Addressable Assets/pm323.icon.png",
+    "file": "323.png"
+  },
+  {
+    "name": "Torkoal",
+    "dex": 324,
+    "path": "Addressable Assets/pm324.icon.png",
+    "file": "324.png"
+  },
+  {
+    "name": "Spoink",
+    "dex": 325,
+    "path": "Addressable Assets/pm325.icon.png",
+    "file": "325.png"
+  },
+  {
+    "name": "Grumpig",
+    "dex": 326,
+    "path": "Addressable Assets/pm326.icon.png",
+    "file": "326.png"
+  },
+  {
+    "name": "Spinda",
+    "dex": 327,
+    "path": "pokemon_icon_327_00.png",
+    "file": "327.png"
+  },
+  {
+    "name": "Trapinch",
+    "dex": 328,
+    "path": "Addressable Assets/pm328.icon.png",
+    "file": "328.png"
+  },
+  {
+    "name": "Vibrava",
+    "dex": 329,
+    "path": "Addressable Assets/pm329.icon.png",
+    "file": "329.png"
+  },
+  {
+    "name": "Flygon",
+    "dex": 330,
+    "path": "Addressable Assets/pm330.icon.png",
+    "file": "330.png"
+  },
+  {
+    "name": "Cacnea",
+    "dex": 331,
+    "path": "Addressable Assets/pm331.icon.png",
+    "file": "331.png"
+  },
+  {
+    "name": "Cacturne",
+    "dex": 332,
+    "path": "Addressable Assets/pm332.icon.png",
+    "file": "332.png"
+  },
+  {
+    "name": "Swablu",
+    "dex": 333,
+    "path": "Addressable Assets/pm333.icon.png",
+    "file": "333.png"
+  },
+  {
+    "name": "Altaria",
+    "dex": 334,
+    "path": "Addressable Assets/pm334.icon.png",
+    "file": "334.png"
+  },
+  {
+    "name": "Zangoose",
+    "dex": 335,
+    "path": "Addressable Assets/pm335.icon.png",
+    "file": "335.png"
+  },
+  {
+    "name": "Seviper",
+    "dex": 336,
+    "path": "Addressable Assets/pm336.icon.png",
+    "file": "336.png"
+  },
+  {
+    "name": "Lunatone",
+    "dex": 337,
+    "path": "Addressable Assets/pm337.icon.png",
+    "file": "337.png"
+  },
+  {
+    "name": "Solrock",
+    "dex": 338,
+    "path": "Addressable Assets/pm338.icon.png",
+    "file": "338.png"
+  },
+  {
+    "name": "Barboach",
+    "dex": 339,
+    "path": "Addressable Assets/pm339.icon.png",
+    "file": "339.png"
+  },
+  {
+    "name": "Whiscash",
+    "dex": 340,
+    "path": "Addressable Assets/pm340.icon.png",
+    "file": "340.png"
+  },
+  {
+    "name": "Corphish",
+    "dex": 341,
+    "path": "Addressable Assets/pm341.icon.png",
+    "file": "341.png"
+  },
+  {
+    "name": "Crawdaunt",
+    "dex": 342,
+    "path": "Addressable Assets/pm342.icon.png",
+    "file": "342.png"
+  },
+  {
+    "name": "Baltoy",
+    "dex": 343,
+    "path": "Addressable Assets/pm343.icon.png",
+    "file": "343.png"
+  },
+  {
+    "name": "Claydol",
+    "dex": 344,
+    "path": "Addressable Assets/pm344.icon.png",
+    "file": "344.png"
+  },
+  {
+    "name": "Lileep",
+    "dex": 345,
+    "path": "Addressable Assets/pm345.icon.png",
+    "file": "345.png"
+  },
+  {
+    "name": "Cradily",
+    "dex": 346,
+    "path": "Addressable Assets/pm346.icon.png",
+    "file": "346.png"
+  },
+  {
+    "name": "Anorith",
+    "dex": 347,
+    "path": "Addressable Assets/pm347.icon.png",
+    "file": "347.png"
+  },
+  {
+    "name": "Armaldo",
+    "dex": 348,
+    "path": "Addressable Assets/pm348.icon.png",
+    "file": "348.png"
+  },
+  {
+    "name": "Feebas",
+    "dex": 349,
+    "path": "Addressable Assets/pm349.icon.png",
+    "file": "349.png"
+  },
+  {
+    "name": "Milotic",
+    "dex": 350,
+    "path": "Addressable Assets/pm350.icon.png",
+    "file": "350.png"
+  },
+  {
+    "name": "Castform",
+    "dex": 351,
+    "path": "Addressable Assets/pm351.icon.png",
+    "file": "351.png"
+  },
+  {
+    "name": "Kecleon",
+    "dex": 352,
+    "path": "Addressable Assets/pm352.icon.png",
+    "file": "352.png"
+  },
+  {
+    "name": "Shuppet",
+    "dex": 353,
+    "path": "Addressable Assets/pm353.icon.png",
+    "file": "353.png"
+  },
+  {
+    "name": "Banette",
+    "dex": 354,
+    "path": "Addressable Assets/pm354.icon.png",
+    "file": "354.png"
+  },
+  {
+    "name": "Duskull",
+    "dex": 355,
+    "path": "Addressable Assets/pm355.icon.png",
+    "file": "355.png"
+  },
+  {
+    "name": "Dusclops",
+    "dex": 356,
+    "path": "Addressable Assets/pm356.icon.png",
+    "file": "356.png"
+  },
+  {
+    "name": "Tropius",
+    "dex": 357,
+    "path": "Addressable Assets/pm357.icon.png",
+    "file": "357.png"
+  },
+  {
+    "name": "Chimecho",
+    "dex": 358,
+    "path": "Addressable Assets/pm358.icon.png",
+    "file": "358.png"
+  },
+  {
+    "name": "Absol",
+    "dex": 359,
+    "path": "Addressable Assets/pm359.icon.png",
+    "file": "359.png"
+  },
+  {
+    "name": "Wynaut",
+    "dex": 360,
+    "path": "Addressable Assets/pm360.icon.png",
+    "file": "360.png"
+  },
+  {
+    "name": "Snorunt",
+    "dex": 361,
+    "path": "Addressable Assets/pm361.icon.png",
+    "file": "361.png"
+  },
+  {
+    "name": "Glalie",
+    "dex": 362,
+    "path": "Addressable Assets/pm362.icon.png",
+    "file": "362.png"
+  },
+  {
+    "name": "Spheal",
+    "dex": 363,
+    "path": "Addressable Assets/pm363.icon.png",
+    "file": "363.png"
+  },
+  {
+    "name": "Sealeo",
+    "dex": 364,
+    "path": "Addressable Assets/pm364.icon.png",
+    "file": "364.png"
+  },
+  {
+    "name": "Walrein",
+    "dex": 365,
+    "path": "Addressable Assets/pm365.icon.png",
+    "file": "365.png"
+  },
+  {
+    "name": "Clamperl",
+    "dex": 366,
+    "path": "Addressable Assets/pm366.icon.png",
+    "file": "366.png"
+  },
+  {
+    "name": "Huntail",
+    "dex": 367,
+    "path": "Addressable Assets/pm367.icon.png",
+    "file": "367.png"
+  },
+  {
+    "name": "Gorebyss",
+    "dex": 368,
+    "path": "Addressable Assets/pm368.icon.png",
+    "file": "368.png"
+  },
+  {
+    "name": "Relicanth",
+    "dex": 369,
+    "path": "Addressable Assets/pm369.icon.png",
+    "file": "369.png"
+  },
+  {
+    "name": "Luvdisc",
+    "dex": 370,
+    "path": "Addressable Assets/pm370.icon.png",
+    "file": "370.png"
+  },
+  {
+    "name": "Bagon",
+    "dex": 371,
+    "path": "Addressable Assets/pm371.icon.png",
+    "file": "371.png"
+  },
+  {
+    "name": "Shelgon",
+    "dex": 372,
+    "path": "Addressable Assets/pm372.icon.png",
+    "file": "372.png"
+  },
+  {
+    "name": "Salamence",
+    "dex": 373,
+    "path": "Addressable Assets/pm373.icon.png",
+    "file": "373.png"
+  },
+  {
+    "name": "Beldum",
+    "dex": 374,
+    "path": "Addressable Assets/pm374.icon.png",
+    "file": "374.png"
+  },
+  {
+    "name": "Metang",
+    "dex": 375,
+    "path": "Addressable Assets/pm375.icon.png",
+    "file": "375.png"
+  },
+  {
+    "name": "Metagross",
+    "dex": 376,
+    "path": "Addressable Assets/pm376.icon.png",
+    "file": "376.png"
+  },
+  {
+    "name": "Regirock",
+    "dex": 377,
+    "path": "Addressable Assets/pm377.icon.png",
+    "file": "377.png"
+  },
+  {
+    "name": "Regice",
+    "dex": 378,
+    "path": "Addressable Assets/pm378.icon.png",
+    "file": "378.png"
+  },
+  {
+    "name": "Registeel",
+    "dex": 379,
+    "path": "Addressable Assets/pm379.icon.png",
+    "file": "379.png"
+  },
+  {
+    "name": "Latias",
+    "dex": 380,
+    "path": "Addressable Assets/pm380.icon.png",
+    "file": "380.png"
+  },
+  {
+    "name": "Latios",
+    "dex": 381,
+    "path": "Addressable Assets/pm381.icon.png",
+    "file": "381.png"
+  },
+  {
+    "name": "Kyogre",
+    "dex": 382,
+    "path": "Addressable Assets/pm382.icon.png",
+    "file": "382.png"
+  },
+  {
+    "name": "Groudon",
+    "dex": 383,
+    "path": "Addressable Assets/pm383.icon.png",
+    "file": "383.png"
+  },
+  {
+    "name": "Rayquaza",
+    "dex": 384,
+    "path": "Addressable Assets/pm384.icon.png",
+    "file": "384.png"
+  },
+  {
+    "name": "Jirachi",
+    "dex": 385,
+    "path": "Addressable Assets/pm385.icon.png",
+    "file": "385.png"
+  },
+  {
+    "name": "Deoxys",
+    "dex": 386,
+    "path": "Addressable Assets/pm386.icon.png",
+    "file": "386.png"
+  },
+  {
+    "name": "Turtwig",
+    "dex": 387,
+    "path": "Addressable Assets/pm387.icon.png",
+    "file": "387.png"
+  },
+  {
+    "name": "Grotle",
+    "dex": 388,
+    "path": "Addressable Assets/pm388.icon.png",
+    "file": "388.png"
+  },
+  {
+    "name": "Torterra",
+    "dex": 389,
+    "path": "Addressable Assets/pm389.icon.png",
+    "file": "389.png"
+  },
+  {
+    "name": "Chimchar",
+    "dex": 390,
+    "path": "Addressable Assets/pm390.icon.png",
+    "file": "390.png"
+  },
+  {
+    "name": "Monferno",
+    "dex": 391,
+    "path": "Addressable Assets/pm391.icon.png",
+    "file": "391.png"
+  },
+  {
+    "name": "Infernape",
+    "dex": 392,
+    "path": "Addressable Assets/pm392.icon.png",
+    "file": "392.png"
+  },
+  {
+    "name": "Piplup",
+    "dex": 393,
+    "path": "Addressable Assets/pm393.icon.png",
+    "file": "393.png"
+  },
+  {
+    "name": "Prinplup",
+    "dex": 394,
+    "path": "Addressable Assets/pm394.icon.png",
+    "file": "394.png"
+  },
+  {
+    "name": "Empoleon",
+    "dex": 395,
+    "path": "Addressable Assets/pm395.icon.png",
+    "file": "395.png"
+  },
+  {
+    "name": "Starly",
+    "dex": 396,
+    "path": "Addressable Assets/pm396.icon.png",
+    "file": "396.png"
+  },
+  {
+    "name": "Staravia",
+    "dex": 397,
+    "path": "Addressable Assets/pm397.icon.png",
+    "file": "397.png"
+  },
+  {
+    "name": "Staraptor",
+    "dex": 398,
+    "path": "Addressable Assets/pm398.icon.png",
+    "file": "398.png"
+  },
+  {
+    "name": "Bidoof",
+    "dex": 399,
+    "path": "Addressable Assets/pm399.icon.png",
+    "file": "399.png"
+  },
+  {
+    "name": "Bibarel",
+    "dex": 400,
+    "path": "Addressable Assets/pm400.icon.png",
+    "file": "400.png"
+  },
+  {
+    "name": "Kricketot",
+    "dex": 401,
+    "path": "Addressable Assets/pm401.icon.png",
+    "file": "401.png"
+  },
+  {
+    "name": "Kricketune",
+    "dex": 402,
+    "path": "Addressable Assets/pm402.icon.png",
+    "file": "402.png"
+  },
+  {
+    "name": "Shinx",
+    "dex": 403,
+    "path": "Addressable Assets/pm403.icon.png",
+    "file": "403.png"
+  },
+  {
+    "name": "Luxio",
+    "dex": 404,
+    "path": "Addressable Assets/pm404.icon.png",
+    "file": "404.png"
+  },
+  {
+    "name": "Luxray",
+    "dex": 405,
+    "path": "Addressable Assets/pm405.icon.png",
+    "file": "405.png"
+  },
+  {
+    "name": "Budew",
+    "dex": 406,
+    "path": "Addressable Assets/pm406.icon.png",
+    "file": "406.png"
+  },
+  {
+    "name": "Roserade",
+    "dex": 407,
+    "path": "Addressable Assets/pm407.icon.png",
+    "file": "407.png"
+  },
+  {
+    "name": "Cranidos",
+    "dex": 408,
+    "path": "Addressable Assets/pm408.icon.png",
+    "file": "408.png"
+  },
+  {
+    "name": "Rampardos",
+    "dex": 409,
+    "path": "Addressable Assets/pm409.icon.png",
+    "file": "409.png"
+  },
+  {
+    "name": "Shieldon",
+    "dex": 410,
+    "path": "Addressable Assets/pm410.icon.png",
+    "file": "410.png"
+  },
+  {
+    "name": "Bastiodon",
+    "dex": 411,
+    "path": "Addressable Assets/pm411.icon.png",
+    "file": "411.png"
+  },
+  {
+    "name": "Mothim",
+    "dex": 414,
+    "path": "Addressable Assets/pm414.icon.png",
+    "file": "414.png"
+  },
+  {
+    "name": "Combee",
+    "dex": 415,
+    "path": "Addressable Assets/pm415.icon.png",
+    "file": "415.png"
+  },
+  {
+    "name": "Vespiquen",
+    "dex": 416,
+    "path": "Addressable Assets/pm416.icon.png",
+    "file": "416.png"
+  },
+  {
+    "name": "Pachirisu",
+    "dex": 417,
+    "path": "Addressable Assets/pm417.icon.png",
+    "file": "417.png"
+  },
+  {
+    "name": "Buizel",
+    "dex": 418,
+    "path": "Addressable Assets/pm418.icon.png",
+    "file": "418.png"
+  },
+  {
+    "name": "Floatzel",
+    "dex": 419,
+    "path": "Addressable Assets/pm419.icon.png",
+    "file": "419.png"
+  },
+  {
+    "name": "Cherubi",
+    "dex": 420,
+    "path": "Addressable Assets/pm420.icon.png",
+    "file": "420.png"
+  },
+  {
+    "name": "Ambipom",
+    "dex": 424,
+    "path": "Addressable Assets/pm424.icon.png",
+    "file": "424.png"
+  },
+  {
+    "name": "Drifloon",
+    "dex": 425,
+    "path": "Addressable Assets/pm425.icon.png",
+    "file": "425.png"
+  },
+  {
+    "name": "Drifblim",
+    "dex": 426,
+    "path": "Addressable Assets/pm426.icon.png",
+    "file": "426.png"
+  },
+  {
+    "name": "Buneary",
+    "dex": 427,
+    "path": "Addressable Assets/pm427.icon.png",
+    "file": "427.png"
+  },
+  {
+    "name": "Lopunny",
+    "dex": 428,
+    "path": "Addressable Assets/pm428.icon.png",
+    "file": "428.png"
+  },
+  {
+    "name": "Mismagius",
+    "dex": 429,
+    "path": "Addressable Assets/pm429.icon.png",
+    "file": "429.png"
+  },
+  {
+    "name": "Honchkrow",
+    "dex": 430,
+    "path": "Addressable Assets/pm430.icon.png",
+    "file": "430.png"
+  },
+  {
+    "name": "Glameow",
+    "dex": 431,
+    "path": "Addressable Assets/pm431.icon.png",
+    "file": "431.png"
+  },
+  {
+    "name": "Purugly",
+    "dex": 432,
+    "path": "Addressable Assets/pm432.icon.png",
+    "file": "432.png"
+  },
+  {
+    "name": "Chingling",
+    "dex": 433,
+    "path": "Addressable Assets/pm433.icon.png",
+    "file": "433.png"
+  },
+  {
+    "name": "Stunky",
+    "dex": 434,
+    "path": "Addressable Assets/pm434.icon.png",
+    "file": "434.png"
+  },
+  {
+    "name": "Skuntank",
+    "dex": 435,
+    "path": "Addressable Assets/pm435.icon.png",
+    "file": "435.png"
+  },
+  {
+    "name": "Bronzor",
+    "dex": 436,
+    "path": "Addressable Assets/pm436.icon.png",
+    "file": "436.png"
+  },
+  {
+    "name": "Bronzong",
+    "dex": 437,
+    "path": "Addressable Assets/pm437.icon.png",
+    "file": "437.png"
+  },
+  {
+    "name": "Bonsly",
+    "dex": 438,
+    "path": "Addressable Assets/pm438.icon.png",
+    "file": "438.png"
+  },
+  {
+    "name": "Happiny",
+    "dex": 440,
+    "path": "Addressable Assets/pm440.icon.png",
+    "file": "440.png"
+  },
+  {
+    "name": "Chatot",
+    "dex": 441,
+    "path": "Addressable Assets/pm441.icon.png",
+    "file": "441.png"
+  },
+  {
+    "name": "Spiritomb",
+    "dex": 442,
+    "path": "Addressable Assets/pm442.icon.png",
+    "file": "442.png"
+  },
+  {
+    "name": "Gible",
+    "dex": 443,
+    "path": "Addressable Assets/pm443.icon.png",
+    "file": "443.png"
+  },
+  {
+    "name": "Gabite",
+    "dex": 444,
+    "path": "Addressable Assets/pm444.icon.png",
+    "file": "444.png"
+  },
+  {
+    "name": "Garchomp",
+    "dex": 445,
+    "path": "Addressable Assets/pm445.icon.png",
+    "file": "445.png"
+  },
+  {
+    "name": "Munchlax",
+    "dex": 446,
+    "path": "Addressable Assets/pm446.icon.png",
+    "file": "446.png"
+  },
+  {
+    "name": "Riolu",
+    "dex": 447,
+    "path": "Addressable Assets/pm447.icon.png",
+    "file": "447.png"
+  },
+  {
+    "name": "Lucario",
+    "dex": 448,
+    "path": "Addressable Assets/pm448.icon.png",
+    "file": "448.png"
+  },
+  {
+    "name": "Hippopotas",
+    "dex": 449,
+    "path": "Addressable Assets/pm449.icon.png",
+    "file": "449.png"
+  },
+  {
+    "name": "Hippowdon",
+    "dex": 450,
+    "path": "Addressable Assets/pm450.icon.png",
+    "file": "450.png"
+  },
+  {
+    "name": "Skorupi",
+    "dex": 451,
+    "path": "Addressable Assets/pm451.icon.png",
+    "file": "451.png"
+  },
+  {
+    "name": "Drapion",
+    "dex": 452,
+    "path": "Addressable Assets/pm452.icon.png",
+    "file": "452.png"
+  },
+  {
+    "name": "Croagunk",
+    "dex": 453,
+    "path": "Addressable Assets/pm453.icon.png",
+    "file": "453.png"
+  },
+  {
+    "name": "Toxicroak",
+    "dex": 454,
+    "path": "Addressable Assets/pm454.icon.png",
+    "file": "454.png"
+  },
+  {
+    "name": "Carnivine",
+    "dex": 455,
+    "path": "Addressable Assets/pm455.icon.png",
+    "file": "455.png"
+  },
+  {
+    "name": "Finneon",
+    "dex": 456,
+    "path": "Addressable Assets/pm456.icon.png",
+    "file": "456.png"
+  },
+  {
+    "name": "Lumineon",
+    "dex": 457,
+    "path": "Addressable Assets/pm457.icon.png",
+    "file": "457.png"
+  },
+  {
+    "name": "Mantyke",
+    "dex": 458,
+    "path": "Addressable Assets/pm458.icon.png",
+    "file": "458.png"
+  },
+  {
+    "name": "Snover",
+    "dex": 459,
+    "path": "Addressable Assets/pm459.icon.png",
+    "file": "459.png"
+  },
+  {
+    "name": "Abomasnow",
+    "dex": 460,
+    "path": "Addressable Assets/pm460.icon.png",
+    "file": "460.png"
+  },
+  {
+    "name": "Weavile",
+    "dex": 461,
+    "path": "Addressable Assets/pm461.icon.png",
+    "file": "461.png"
+  },
+  {
+    "name": "Magnezone",
+    "dex": 462,
+    "path": "Addressable Assets/pm462.icon.png",
+    "file": "462.png"
+  },
+  {
+    "name": "Lickilicky",
+    "dex": 463,
+    "path": "Addressable Assets/pm463.icon.png",
+    "file": "463.png"
+  },
+  {
+    "name": "Rhyperior",
+    "dex": 464,
+    "path": "Addressable Assets/pm464.icon.png",
+    "file": "464.png"
+  },
+  {
+    "name": "Tangrowth",
+    "dex": 465,
+    "path": "Addressable Assets/pm465.icon.png",
+    "file": "465.png"
+  },
+  {
+    "name": "Electivire",
+    "dex": 466,
+    "path": "Addressable Assets/pm466.icon.png",
+    "file": "466.png"
+  },
+  {
+    "name": "Magmortar",
+    "dex": 467,
+    "path": "Addressable Assets/pm467.icon.png",
+    "file": "467.png"
+  },
+  {
+    "name": "Togekiss",
+    "dex": 468,
+    "path": "Addressable Assets/pm468.icon.png",
+    "file": "468.png"
+  },
+  {
+    "name": "Yanmega",
+    "dex": 469,
+    "path": "Addressable Assets/pm469.icon.png",
+    "file": "469.png"
+  },
+  {
+    "name": "Leafeon",
+    "dex": 470,
+    "path": "Addressable Assets/pm470.icon.png",
+    "file": "470.png"
+  },
+  {
+    "name": "Glaceon",
+    "dex": 471,
+    "path": "Addressable Assets/pm471.icon.png",
+    "file": "471.png"
+  },
+  {
+    "name": "Gliscor",
+    "dex": 472,
+    "path": "Addressable Assets/pm472.icon.png",
+    "file": "472.png"
+  },
+  {
+    "name": "Mamoswine",
+    "dex": 473,
+    "path": "Addressable Assets/pm473.icon.png",
+    "file": "473.png"
+  },
+  {
+    "name": "Gallade",
+    "dex": 475,
+    "path": "Addressable Assets/pm475.icon.png",
+    "file": "475.png"
+  },
+  {
+    "name": "Probopass",
+    "dex": 476,
+    "path": "Addressable Assets/pm476.icon.png",
+    "file": "476.png"
+  },
+  {
+    "name": "Dusknoir",
+    "dex": 477,
+    "path": "Addressable Assets/pm477.icon.png",
+    "file": "477.png"
+  },
+  {
+    "name": "Froslass",
+    "dex": 478,
+    "path": "Addressable Assets/pm478.icon.png",
+    "file": "478.png"
+  },
+  {
+    "name": "Rotom",
+    "dex": 479,
+    "path": "Addressable Assets/pm479.icon.png",
+    "file": "479.png"
+  },
+  {
+    "name": "Uxie",
+    "dex": 480,
+    "path": "Addressable Assets/pm480.icon.png",
+    "file": "480.png"
+  },
+  {
+    "name": "Mesprit",
+    "dex": 481,
+    "path": "Addressable Assets/pm481.icon.png",
+    "file": "481.png"
+  },
+  {
+    "name": "Azelf",
+    "dex": 482,
+    "path": "Addressable Assets/pm482.icon.png",
+    "file": "482.png"
+  },
+  {
+    "name": "Dialga",
+    "dex": 483,
+    "path": "Addressable Assets/pm483.icon.png",
+    "file": "483.png"
+  },
+  {
+    "name": "Palkia",
+    "dex": 484,
+    "path": "Addressable Assets/pm484.icon.png",
+    "file": "484.png"
+  },
+  {
+    "name": "Heatran",
+    "dex": 485,
+    "path": "Addressable Assets/pm485.icon.png",
+    "file": "485.png"
+  },
+  {
+    "name": "Regigigas",
+    "dex": 486,
+    "path": "Addressable Assets/pm486.icon.png",
+    "file": "486.png"
+  },
+  {
+    "name": "Cresselia",
+    "dex": 488,
+    "path": "Addressable Assets/pm488.icon.png",
+    "file": "488.png"
+  },
+  {
+    "name": "Phione",
+    "dex": 489,
+    "path": "Addressable Assets/pm489.icon.png",
+    "file": "489.png"
+  },
+  {
+    "name": "Manaphy",
+    "dex": 490,
+    "path": "Addressable Assets/pm490.icon.png",
+    "file": "490.png"
+  },
+  {
+    "name": "Darkrai",
+    "dex": 491,
+    "path": "Addressable Assets/pm491.icon.png",
+    "file": "491.png"
+  },
+  {
+    "name": "Arceus",
+    "dex": 493,
+    "path": "Addressable Assets/pm493.icon.png",
+    "file": "493.png"
+  },
+  {
+    "name": "Victini",
+    "dex": 494,
+    "path": "Addressable Assets/pm494.icon.png",
+    "file": "494.png"
+  },
+  {
+    "name": "Snivy",
+    "dex": 495,
+    "path": "Addressable Assets/pm495.icon.png",
+    "file": "495.png"
+  },
+  {
+    "name": "Servine",
+    "dex": 496,
+    "path": "Addressable Assets/pm496.icon.png",
+    "file": "496.png"
+  },
+  {
+    "name": "Serperior",
+    "dex": 497,
+    "path": "Addressable Assets/pm497.icon.png",
+    "file": "497.png"
+  },
+  {
+    "name": "Tepig",
+    "dex": 498,
+    "path": "Addressable Assets/pm498.icon.png",
+    "file": "498.png"
+  },
+  {
+    "name": "Pignite",
+    "dex": 499,
+    "path": "Addressable Assets/pm499.icon.png",
+    "file": "499.png"
+  },
+  {
+    "name": "Emboar",
+    "dex": 500,
+    "path": "Addressable Assets/pm500.icon.png",
+    "file": "500.png"
+  },
+  {
+    "name": "Oshawott",
+    "dex": 501,
+    "path": "Addressable Assets/pm501.icon.png",
+    "file": "501.png"
+  },
+  {
+    "name": "Dewott",
+    "dex": 502,
+    "path": "Addressable Assets/pm502.icon.png",
+    "file": "502.png"
+  },
+  {
+    "name": "Samurott",
+    "dex": 503,
+    "path": "Addressable Assets/pm503.icon.png",
+    "file": "503.png"
+  },
+  {
+    "name": "Patrat",
+    "dex": 504,
+    "path": "Addressable Assets/pm504.icon.png",
+    "file": "504.png"
+  },
+  {
+    "name": "Watchog",
+    "dex": 505,
+    "path": "Addressable Assets/pm505.icon.png",
+    "file": "505.png"
+  },
+  {
+    "name": "Lillipup",
+    "dex": 506,
+    "path": "Addressable Assets/pm506.icon.png",
+    "file": "506.png"
+  },
+  {
+    "name": "Herdier",
+    "dex": 507,
+    "path": "Addressable Assets/pm507.icon.png",
+    "file": "507.png"
+  },
+  {
+    "name": "Stoutland",
+    "dex": 508,
+    "path": "Addressable Assets/pm508.icon.png",
+    "file": "508.png"
+  },
+  {
+    "name": "Purrloin",
+    "dex": 509,
+    "path": "Addressable Assets/pm509.icon.png",
+    "file": "509.png"
+  },
+  {
+    "name": "Liepard",
+    "dex": 510,
+    "path": "Addressable Assets/pm510.icon.png",
+    "file": "510.png"
+  },
+  {
+    "name": "Pansage",
+    "dex": 511,
+    "path": "Addressable Assets/pm511.icon.png",
+    "file": "511.png"
+  },
+  {
+    "name": "Simisage",
+    "dex": 512,
+    "path": "Addressable Assets/pm512.icon.png",
+    "file": "512.png"
+  },
+  {
+    "name": "Pansear",
+    "dex": 513,
+    "path": "Addressable Assets/pm513.icon.png",
+    "file": "513.png"
+  },
+  {
+    "name": "Simisear",
+    "dex": 514,
+    "path": "Addressable Assets/pm514.icon.png",
+    "file": "514.png"
+  },
+  {
+    "name": "Panpour",
+    "dex": 515,
+    "path": "Addressable Assets/pm515.icon.png",
+    "file": "515.png"
+  },
+  {
+    "name": "Simipour",
+    "dex": 516,
+    "path": "Addressable Assets/pm516.icon.png",
+    "file": "516.png"
+  },
+  {
+    "name": "Munna",
+    "dex": 517,
+    "path": "Addressable Assets/pm517.icon.png",
+    "file": "517.png"
+  },
+  {
+    "name": "Musharna",
+    "dex": 518,
+    "path": "Addressable Assets/pm518.icon.png",
+    "file": "518.png"
+  },
+  {
+    "name": "Pidove",
+    "dex": 519,
+    "path": "Addressable Assets/pm519.icon.png",
+    "file": "519.png"
+  },
+  {
+    "name": "Tranquill",
+    "dex": 520,
+    "path": "Addressable Assets/pm520.icon.png",
+    "file": "520.png"
+  },
+  {
+    "name": "Unfezant",
+    "dex": 521,
+    "path": "Addressable Assets/pm521.icon.png",
+    "file": "521.png"
+  },
+  {
+    "name": "Blitzle",
+    "dex": 522,
+    "path": "Addressable Assets/pm522.icon.png",
+    "file": "522.png"
+  },
+  {
+    "name": "Zebstrika",
+    "dex": 523,
+    "path": "Addressable Assets/pm523.icon.png",
+    "file": "523.png"
+  },
+  {
+    "name": "Roggenrola",
+    "dex": 524,
+    "path": "Addressable Assets/pm524.icon.png",
+    "file": "524.png"
+  },
+  {
+    "name": "Boldore",
+    "dex": 525,
+    "path": "Addressable Assets/pm525.icon.png",
+    "file": "525.png"
+  },
+  {
+    "name": "Gigalith",
+    "dex": 526,
+    "path": "Addressable Assets/pm526.icon.png",
+    "file": "526.png"
+  },
+  {
+    "name": "Woobat",
+    "dex": 527,
+    "path": "Addressable Assets/pm527.icon.png",
+    "file": "527.png"
+  },
+  {
+    "name": "Swoobat",
+    "dex": 528,
+    "path": "Addressable Assets/pm528.icon.png",
+    "file": "528.png"
+  },
+  {
+    "name": "Drilbur",
+    "dex": 529,
+    "path": "Addressable Assets/pm529.icon.png",
+    "file": "529.png"
+  },
+  {
+    "name": "Excadrill",
+    "dex": 530,
+    "path": "Addressable Assets/pm530.icon.png",
+    "file": "530.png"
+  },
+  {
+    "name": "Audino",
+    "dex": 531,
+    "path": "Addressable Assets/pm531.icon.png",
+    "file": "531.png"
+  },
+  {
+    "name": "Timburr",
+    "dex": 532,
+    "path": "Addressable Assets/pm532.icon.png",
+    "file": "532.png"
+  },
+  {
+    "name": "Gurdurr",
+    "dex": 533,
+    "path": "Addressable Assets/pm533.icon.png",
+    "file": "533.png"
+  },
+  {
+    "name": "Conkeldurr",
+    "dex": 534,
+    "path": "Addressable Assets/pm534.icon.png",
+    "file": "534.png"
+  },
+  {
+    "name": "Tympole",
+    "dex": 535,
+    "path": "Addressable Assets/pm535.icon.png",
+    "file": "535.png"
+  },
+  {
+    "name": "Palpitoad",
+    "dex": 536,
+    "path": "Addressable Assets/pm536.icon.png",
+    "file": "536.png"
+  },
+  {
+    "name": "Seismitoad",
+    "dex": 537,
+    "path": "Addressable Assets/pm537.icon.png",
+    "file": "537.png"
+  },
+  {
+    "name": "Throh",
+    "dex": 538,
+    "path": "Addressable Assets/pm538.icon.png",
+    "file": "538.png"
+  },
+  {
+    "name": "Sawk",
+    "dex": 539,
+    "path": "Addressable Assets/pm539.icon.png",
+    "file": "539.png"
+  },
+  {
+    "name": "Sewaddle",
+    "dex": 540,
+    "path": "Addressable Assets/pm540.icon.png",
+    "file": "540.png"
+  },
+  {
+    "name": "Swadloon",
+    "dex": 541,
+    "path": "Addressable Assets/pm541.icon.png",
+    "file": "541.png"
+  },
+  {
+    "name": "Leavanny",
+    "dex": 542,
+    "path": "Addressable Assets/pm542.icon.png",
+    "file": "542.png"
+  },
+  {
+    "name": "Venipede",
+    "dex": 543,
+    "path": "Addressable Assets/pm543.icon.png",
+    "file": "543.png"
+  },
+  {
+    "name": "Whirlipede",
+    "dex": 544,
+    "path": "Addressable Assets/pm544.icon.png",
+    "file": "544.png"
+  },
+  {
+    "name": "Scolipede",
+    "dex": 545,
+    "path": "Addressable Assets/pm545.icon.png",
+    "file": "545.png"
+  },
+  {
+    "name": "Cottonee",
+    "dex": 546,
+    "path": "Addressable Assets/pm546.icon.png",
+    "file": "546.png"
+  },
+  {
+    "name": "Whimsicott",
+    "dex": 547,
+    "path": "Addressable Assets/pm547.icon.png",
+    "file": "547.png"
+  },
+  {
+    "name": "Petilil",
+    "dex": 548,
+    "path": "Addressable Assets/pm548.icon.png",
+    "file": "548.png"
+  },
+  {
+    "name": "Lilligant",
+    "dex": 549,
+    "path": "Addressable Assets/pm549.icon.png",
+    "file": "549.png"
+  },
+  {
+    "name": "Sandile",
+    "dex": 551,
+    "path": "Addressable Assets/pm551.icon.png",
+    "file": "551.png"
+  },
+  {
+    "name": "Krokorok",
+    "dex": 552,
+    "path": "Addressable Assets/pm552.icon.png",
+    "file": "552.png"
+  },
+  {
+    "name": "Krookodile",
+    "dex": 553,
+    "path": "Addressable Assets/pm553.icon.png",
+    "file": "553.png"
+  },
+  {
+    "name": "Darumaka",
+    "dex": 554,
+    "path": "Addressable Assets/pm554.icon.png",
+    "file": "554.png"
+  },
+  {
+    "name": "Maractus",
+    "dex": 556,
+    "path": "Addressable Assets/pm556.icon.png",
+    "file": "556.png"
+  },
+  {
+    "name": "Dwebble",
+    "dex": 557,
+    "path": "Addressable Assets/pm557.icon.png",
+    "file": "557.png"
+  },
+  {
+    "name": "Crustle",
+    "dex": 558,
+    "path": "Addressable Assets/pm558.icon.png",
+    "file": "558.png"
+  },
+  {
+    "name": "Scraggy",
+    "dex": 559,
+    "path": "Addressable Assets/pm559.icon.png",
+    "file": "559.png"
+  },
+  {
+    "name": "Scrafty",
+    "dex": 560,
+    "path": "Addressable Assets/pm560.icon.png",
+    "file": "560.png"
+  },
+  {
+    "name": "Sigilyph",
+    "dex": 561,
+    "path": "Addressable Assets/pm561.icon.png",
+    "file": "561.png"
+  },
+  {
+    "name": "Yamask",
+    "dex": 562,
+    "path": "Addressable Assets/pm562.icon.png",
+    "file": "562.png"
+  },
+  {
+    "name": "Cofagrigus",
+    "dex": 563,
+    "path": "Addressable Assets/pm563.icon.png",
+    "file": "563.png"
+  },
+  {
+    "name": "Tirtouga",
+    "dex": 564,
+    "path": "Addressable Assets/pm564.icon.png",
+    "file": "564.png"
+  },
+  {
+    "name": "Carracosta",
+    "dex": 565,
+    "path": "Addressable Assets/pm565.icon.png",
+    "file": "565.png"
+  },
+  {
+    "name": "Archen",
+    "dex": 566,
+    "path": "Addressable Assets/pm566.icon.png",
+    "file": "566.png"
+  },
+  {
+    "name": "Archeops",
+    "dex": 567,
+    "path": "Addressable Assets/pm567.icon.png",
+    "file": "567.png"
+  },
+  {
+    "name": "Trubbish",
+    "dex": 568,
+    "path": "Addressable Assets/pm568.icon.png",
+    "file": "568.png"
+  },
+  {
+    "name": "Garbodor",
+    "dex": 569,
+    "path": "Addressable Assets/pm569.icon.png",
+    "file": "569.png"
+  },
+  {
+    "name": "Zorua",
+    "dex": 570,
+    "path": "Addressable Assets/pm570.icon.png",
+    "file": "570.png"
+  },
+  {
+    "name": "Zoroark",
+    "dex": 571,
+    "path": "Addressable Assets/pm571.icon.png",
+    "file": "571.png"
+  },
+  {
+    "name": "Minccino",
+    "dex": 572,
+    "path": "Addressable Assets/pm572.icon.png",
+    "file": "572.png"
+  },
+  {
+    "name": "Cinccino",
+    "dex": 573,
+    "path": "Addressable Assets/pm573.icon.png",
+    "file": "573.png"
+  },
+  {
+    "name": "Gothita",
+    "dex": 574,
+    "path": "Addressable Assets/pm574.icon.png",
+    "file": "574.png"
+  },
+  {
+    "name": "Gothorita",
+    "dex": 575,
+    "path": "Addressable Assets/pm575.icon.png",
+    "file": "575.png"
+  },
+  {
+    "name": "Gothitelle",
+    "dex": 576,
+    "path": "Addressable Assets/pm576.icon.png",
+    "file": "576.png"
+  },
+  {
+    "name": "Solosis",
+    "dex": 577,
+    "path": "Addressable Assets/pm577.icon.png",
+    "file": "577.png"
+  },
+  {
+    "name": "Duosion",
+    "dex": 578,
+    "path": "Addressable Assets/pm578.icon.png",
+    "file": "578.png"
+  },
+  {
+    "name": "Reuniclus",
+    "dex": 579,
+    "path": "Addressable Assets/pm579.icon.png",
+    "file": "579.png"
+  },
+  {
+    "name": "Ducklett",
+    "dex": 580,
+    "path": "Addressable Assets/pm580.icon.png",
+    "file": "580.png"
+  },
+  {
+    "name": "Swanna",
+    "dex": 581,
+    "path": "Addressable Assets/pm581.icon.png",
+    "file": "581.png"
+  },
+  {
+    "name": "Vanillite",
+    "dex": 582,
+    "path": "Addressable Assets/pm582.icon.png",
+    "file": "582.png"
+  },
+  {
+    "name": "Vanillish",
+    "dex": 583,
+    "path": "Addressable Assets/pm583.icon.png",
+    "file": "583.png"
+  },
+  {
+    "name": "Vanilluxe",
+    "dex": 584,
+    "path": "Addressable Assets/pm584.icon.png",
+    "file": "584.png"
+  },
+  {
+    "name": "Emolga",
+    "dex": 587,
+    "path": "Addressable Assets/pm587.icon.png",
+    "file": "587.png"
+  },
+  {
+    "name": "Karrablast",
+    "dex": 588,
+    "path": "Addressable Assets/pm588.icon.png",
+    "file": "588.png"
+  },
+  {
+    "name": "Escavalier",
+    "dex": 589,
+    "path": "Addressable Assets/pm589.icon.png",
+    "file": "589.png"
+  },
+  {
+    "name": "Foongus",
+    "dex": 590,
+    "path": "Addressable Assets/pm590.icon.png",
+    "file": "590.png"
+  },
+  {
+    "name": "Amoonguss",
+    "dex": 591,
+    "path": "Addressable Assets/pm591.icon.png",
+    "file": "591.png"
+  },
+  {
+    "name": "Frillish",
+    "dex": 592,
+    "path": "Addressable Assets/pm592.icon.png",
+    "file": "592.png"
+  },
+  {
+    "name": "Jellicent",
+    "dex": 593,
+    "path": "Addressable Assets/pm593.icon.png",
+    "file": "593.png"
+  },
+  {
+    "name": "Alomomola",
+    "dex": 594,
+    "path": "Addressable Assets/pm594.icon.png",
+    "file": "594.png"
+  },
+  {
+    "name": "Joltik",
+    "dex": 595,
+    "path": "Addressable Assets/pm595.icon.png",
+    "file": "595.png"
+  },
+  {
+    "name": "Galvantula",
+    "dex": 596,
+    "path": "Addressable Assets/pm596.icon.png",
+    "file": "596.png"
+  },
+  {
+    "name": "Ferroseed",
+    "dex": 597,
+    "path": "Addressable Assets/pm597.icon.png",
+    "file": "597.png"
+  },
+  {
+    "name": "Ferrothorn",
+    "dex": 598,
+    "path": "Addressable Assets/pm598.icon.png",
+    "file": "598.png"
+  },
+  {
+    "name": "Klink",
+    "dex": 599,
+    "path": "Addressable Assets/pm599.icon.png",
+    "file": "599.png"
+  },
+  {
+    "name": "Klang",
+    "dex": 600,
+    "path": "Addressable Assets/pm600.icon.png",
+    "file": "600.png"
+  },
+  {
+    "name": "Klinklang",
+    "dex": 601,
+    "path": "Addressable Assets/pm601.icon.png",
+    "file": "601.png"
+  },
+  {
+    "name": "Tynamo",
+    "dex": 602,
+    "path": "Addressable Assets/pm602.icon.png",
+    "file": "602.png"
+  },
+  {
+    "name": "Eelektrik",
+    "dex": 603,
+    "path": "Addressable Assets/pm603.icon.png",
+    "file": "603.png"
+  },
+  {
+    "name": "Eelektross",
+    "dex": 604,
+    "path": "Addressable Assets/pm604.icon.png",
+    "file": "604.png"
+  },
+  {
+    "name": "Elgyem",
+    "dex": 605,
+    "path": "Addressable Assets/pm605.icon.png",
+    "file": "605.png"
+  },
+  {
+    "name": "Beheeyem",
+    "dex": 606,
+    "path": "Addressable Assets/pm606.icon.png",
+    "file": "606.png"
+  },
+  {
+    "name": "Litwick",
+    "dex": 607,
+    "path": "Addressable Assets/pm607.icon.png",
+    "file": "607.png"
+  },
+  {
+    "name": "Lampent",
+    "dex": 608,
+    "path": "Addressable Assets/pm608.icon.png",
+    "file": "608.png"
+  },
+  {
+    "name": "Chandelure",
+    "dex": 609,
+    "path": "Addressable Assets/pm609.icon.png",
+    "file": "609.png"
+  },
+  {
+    "name": "Axew",
+    "dex": 610,
+    "path": "Addressable Assets/pm610.icon.png",
+    "file": "610.png"
+  },
+  {
+    "name": "Fraxure",
+    "dex": 611,
+    "path": "Addressable Assets/pm611.icon.png",
+    "file": "611.png"
+  },
+  {
+    "name": "Haxorus",
+    "dex": 612,
+    "path": "Addressable Assets/pm612.icon.png",
+    "file": "612.png"
+  },
+  {
+    "name": "Cubchoo",
+    "dex": 613,
+    "path": "Addressable Assets/pm613.icon.png",
+    "file": "613.png"
+  },
+  {
+    "name": "Beartic",
+    "dex": 614,
+    "path": "Addressable Assets/pm614.icon.png",
+    "file": "614.png"
+  },
+  {
+    "name": "Cryogonal",
+    "dex": 615,
+    "path": "Addressable Assets/pm615.icon.png",
+    "file": "615.png"
+  },
+  {
+    "name": "Shelmet",
+    "dex": 616,
+    "path": "Addressable Assets/pm616.icon.png",
+    "file": "616.png"
+  },
+  {
+    "name": "Accelgor",
+    "dex": 617,
+    "path": "Addressable Assets/pm617.icon.png",
+    "file": "617.png"
+  },
+  {
+    "name": "Stunfisk",
+    "dex": 618,
+    "path": "Addressable Assets/pm618.icon.png",
+    "file": "618.png"
+  },
+  {
+    "name": "Mienfoo",
+    "dex": 619,
+    "path": "Addressable Assets/pm619.icon.png",
+    "file": "619.png"
+  },
+  {
+    "name": "Mienshao",
+    "dex": 620,
+    "path": "Addressable Assets/pm620.icon.png",
+    "file": "620.png"
+  },
+  {
+    "name": "Druddigon",
+    "dex": 621,
+    "path": "Addressable Assets/pm621.icon.png",
+    "file": "621.png"
+  },
+  {
+    "name": "Golett",
+    "dex": 622,
+    "path": "Addressable Assets/pm622.icon.png",
+    "file": "622.png"
+  },
+  {
+    "name": "Golurk",
+    "dex": 623,
+    "path": "Addressable Assets/pm623.icon.png",
+    "file": "623.png"
+  },
+  {
+    "name": "Pawniard",
+    "dex": 624,
+    "path": "Addressable Assets/pm624.icon.png",
+    "file": "624.png"
+  },
+  {
+    "name": "Bisharp",
+    "dex": 625,
+    "path": "Addressable Assets/pm625.icon.png",
+    "file": "625.png"
+  },
+  {
+    "name": "Bouffalant",
+    "dex": 626,
+    "path": "Addressable Assets/pm626.icon.png",
+    "file": "626.png"
+  },
+  {
+    "name": "Rufflet",
+    "dex": 627,
+    "path": "Addressable Assets/pm627.icon.png",
+    "file": "627.png"
+  },
+  {
+    "name": "Braviary",
+    "dex": 628,
+    "path": "Addressable Assets/pm628.icon.png",
+    "file": "628.png"
+  },
+  {
+    "name": "Vullaby",
+    "dex": 629,
+    "path": "Addressable Assets/pm629.icon.png",
+    "file": "629.png"
+  },
+  {
+    "name": "Mandibuzz",
+    "dex": 630,
+    "path": "Addressable Assets/pm630.icon.png",
+    "file": "630.png"
+  },
+  {
+    "name": "Heatmor",
+    "dex": 631,
+    "path": "Addressable Assets/pm631.icon.png",
+    "file": "631.png"
+  },
+  {
+    "name": "Durant",
+    "dex": 632,
+    "path": "Addressable Assets/pm632.icon.png",
+    "file": "632.png"
+  },
+  {
+    "name": "Deino",
+    "dex": 633,
+    "path": "Addressable Assets/pm633.icon.png",
+    "file": "633.png"
+  },
+  {
+    "name": "Zweilous",
+    "dex": 634,
+    "path": "Addressable Assets/pm634.icon.png",
+    "file": "634.png"
+  },
+  {
+    "name": "Hydreigon",
+    "dex": 635,
+    "path": "Addressable Assets/pm635.icon.png",
+    "file": "635.png"
+  },
+  {
+    "name": "Larvesta",
+    "dex": 636,
+    "path": "Addressable Assets/pm636.icon.png",
+    "file": "636.png"
+  },
+  {
+    "name": "Volcarona",
+    "dex": 637,
+    "path": "Addressable Assets/pm637.icon.png",
+    "file": "637.png"
+  },
+  {
+    "name": "Cobalion",
+    "dex": 638,
+    "path": "Addressable Assets/pm638.icon.png",
+    "file": "638.png"
+  },
+  {
+    "name": "Terrakion",
+    "dex": 639,
+    "path": "Addressable Assets/pm639.icon.png",
+    "file": "639.png"
+  },
+  {
+    "name": "Virizion",
+    "dex": 640,
+    "path": "Addressable Assets/pm640.icon.png",
+    "file": "640.png"
+  },
+  {
+    "name": "Reshiram",
+    "dex": 643,
+    "path": "Addressable Assets/pm643.icon.png",
+    "file": "643.png"
+  },
+  {
+    "name": "Zekrom",
+    "dex": 644,
+    "path": "Addressable Assets/pm644.icon.png",
+    "file": "644.png"
+  },
+  {
+    "name": "Chespin",
+    "dex": 650,
+    "path": "Addressable Assets/pm650.icon.png",
+    "file": "650.png"
+  },
+  {
+    "name": "Quilladin",
+    "dex": 651,
+    "path": "Addressable Assets/pm651.icon.png",
+    "file": "651.png"
+  },
+  {
+    "name": "Chesnaught",
+    "dex": 652,
+    "path": "Addressable Assets/pm652.icon.png",
+    "file": "652.png"
+  },
+  {
+    "name": "Fennekin",
+    "dex": 653,
+    "path": "Addressable Assets/pm653.icon.png",
+    "file": "653.png"
+  },
+  {
+    "name": "Braixen",
+    "dex": 654,
+    "path": "Addressable Assets/pm654.icon.png",
+    "file": "654.png"
+  },
+  {
+    "name": "Delphox",
+    "dex": 655,
+    "path": "Addressable Assets/pm655.icon.png",
+    "file": "655.png"
+  },
+  {
+    "name": "Froakie",
+    "dex": 656,
+    "path": "Addressable Assets/pm656.icon.png",
+    "file": "656.png"
+  },
+  {
+    "name": "Frogadier",
+    "dex": 657,
+    "path": "Addressable Assets/pm657.icon.png",
+    "file": "657.png"
+  },
+  {
+    "name": "Greninja",
+    "dex": 658,
+    "path": "Addressable Assets/pm658.icon.png",
+    "file": "658.png"
+  },
+  {
+    "name": "Bunnelby",
+    "dex": 659,
+    "path": "Addressable Assets/pm659.icon.png",
+    "file": "659.png"
+  },
+  {
+    "name": "Diggersby",
+    "dex": 660,
+    "path": "Addressable Assets/pm660.icon.png",
+    "file": "660.png"
+  },
+  {
+    "name": "Fletchling",
+    "dex": 661,
+    "path": "Addressable Assets/pm661.icon.png",
+    "file": "661.png"
+  },
+  {
+    "name": "Fletchinder",
+    "dex": 662,
+    "path": "Addressable Assets/pm662.icon.png",
+    "file": "662.png"
+  },
+  {
+    "name": "Talonflame",
+    "dex": 663,
+    "path": "Addressable Assets/pm663.icon.png",
+    "file": "663.png"
+  },
+  {
+    "name": "Scatterbug",
+    "dex": 664,
+    "path": "Addressable Assets/pm664.icon.png",
+    "file": "664.png"
+  },
+  {
+    "name": "Spewpa",
+    "dex": 665,
+    "path": "Addressable Assets/pm665.icon.png",
+    "file": "665.png"
+  },
+  {
+    "name": "Litleo",
+    "dex": 667,
+    "path": "Addressable Assets/pm667.icon.png",
+    "file": "667.png"
+  },
+  {
+    "name": "Pyroar",
+    "dex": 668,
+    "path": "Addressable Assets/pm668.icon.png",
+    "file": "668.png"
+  },
+  {
+    "name": "Skiddo",
+    "dex": 672,
+    "path": "Addressable Assets/pm672.icon.png",
+    "file": "672.png"
+  },
+  {
+    "name": "Gogoat",
+    "dex": 673,
+    "path": "Addressable Assets/pm673.icon.png",
+    "file": "673.png"
+  },
+  {
+    "name": "Pancham",
+    "dex": 674,
+    "path": "Addressable Assets/pm674.icon.png",
+    "file": "674.png"
+  },
+  {
+    "name": "Pangoro",
+    "dex": 675,
+    "path": "Addressable Assets/pm675.icon.png",
+    "file": "675.png"
+  },
+  {
+    "name": "Espurr",
+    "dex": 677,
+    "path": "Addressable Assets/pm677.icon.png",
+    "file": "677.png"
+  },
+  {
+    "name": "Honedge",
+    "dex": 679,
+    "path": "Addressable Assets/pm679.icon.png",
+    "file": "679.png"
+  },
+  {
+    "name": "Doublade",
+    "dex": 680,
+    "path": "Addressable Assets/pm680.icon.png",
+    "file": "680.png"
+  },
+  {
+    "name": "Spritzee",
+    "dex": 682,
+    "path": "Addressable Assets/pm682.icon.png",
+    "file": "682.png"
+  },
+  {
+    "name": "Aromatisse",
+    "dex": 683,
+    "path": "Addressable Assets/pm683.icon.png",
+    "file": "683.png"
+  },
+  {
+    "name": "Swirlix",
+    "dex": 684,
+    "path": "Addressable Assets/pm684.icon.png",
+    "file": "684.png"
+  },
+  {
+    "name": "Slurpuff",
+    "dex": 685,
+    "path": "Addressable Assets/pm685.icon.png",
+    "file": "685.png"
+  },
+  {
+    "name": "Inkay",
+    "dex": 686,
+    "path": "Addressable Assets/pm686.icon.png",
+    "file": "686.png"
+  },
+  {
+    "name": "Malamar",
+    "dex": 687,
+    "path": "Addressable Assets/pm687.icon.png",
+    "file": "687.png"
+  },
+  {
+    "name": "Binacle",
+    "dex": 688,
+    "path": "Addressable Assets/pm688.icon.png",
+    "file": "688.png"
+  },
+  {
+    "name": "Barbaracle",
+    "dex": 689,
+    "path": "Addressable Assets/pm689.icon.png",
+    "file": "689.png"
+  },
+  {
+    "name": "Skrelp",
+    "dex": 690,
+    "path": "Addressable Assets/pm690.icon.png",
+    "file": "690.png"
+  },
+  {
+    "name": "Dragalge",
+    "dex": 691,
+    "path": "Addressable Assets/pm691.icon.png",
+    "file": "691.png"
+  },
+  {
+    "name": "Clauncher",
+    "dex": 692,
+    "path": "Addressable Assets/pm692.icon.png",
+    "file": "692.png"
+  },
+  {
+    "name": "Clawitzer",
+    "dex": 693,
+    "path": "Addressable Assets/pm693.icon.png",
+    "file": "693.png"
+  },
+  {
+    "name": "Helioptile",
+    "dex": 694,
+    "path": "Addressable Assets/pm694.icon.png",
+    "file": "694.png"
+  },
+  {
+    "name": "Heliolisk",
+    "dex": 695,
+    "path": "Addressable Assets/pm695.icon.png",
+    "file": "695.png"
+  },
+  {
+    "name": "Tyrunt",
+    "dex": 696,
+    "path": "Addressable Assets/pm696.icon.png",
+    "file": "696.png"
+  },
+  {
+    "name": "Tyrantrum",
+    "dex": 697,
+    "path": "Addressable Assets/pm697.icon.png",
+    "file": "697.png"
+  },
+  {
+    "name": "Amaura",
+    "dex": 698,
+    "path": "Addressable Assets/pm698.icon.png",
+    "file": "698.png"
+  },
+  {
+    "name": "Aurorus",
+    "dex": 699,
+    "path": "Addressable Assets/pm699.icon.png",
+    "file": "699.png"
+  },
+  {
+    "name": "Sylveon",
+    "dex": 700,
+    "path": "Addressable Assets/pm700.icon.png",
+    "file": "700.png"
+  },
+  {
+    "name": "Hawlucha",
+    "dex": 701,
+    "path": "Addressable Assets/pm701.icon.png",
+    "file": "701.png"
+  },
+  {
+    "name": "Dedenne",
+    "dex": 702,
+    "path": "Addressable Assets/pm702.icon.png",
+    "file": "702.png"
+  },
+  {
+    "name": "Carbink",
+    "dex": 703,
+    "path": "Addressable Assets/pm703.icon.png",
+    "file": "703.png"
+  },
+  {
+    "name": "Goomy",
+    "dex": 704,
+    "path": "Addressable Assets/pm704.icon.png",
+    "file": "704.png"
+  },
+  {
+    "name": "Sliggoo",
+    "dex": 705,
+    "path": "Addressable Assets/pm705.icon.png",
+    "file": "705.png"
+  },
+  {
+    "name": "Goodra",
+    "dex": 706,
+    "path": "Addressable Assets/pm706.icon.png",
+    "file": "706.png"
+  },
+  {
+    "name": "Klefki",
+    "dex": 707,
+    "path": "Addressable Assets/pm707.icon.png",
+    "file": "707.png"
+  },
+  {
+    "name": "Phantump",
+    "dex": 708,
+    "path": "Addressable Assets/pm708.icon.png",
+    "file": "708.png"
+  },
+  {
+    "name": "Trevenant",
+    "dex": 709,
+    "path": "Addressable Assets/pm709.icon.png",
+    "file": "709.png"
+  },
+  {
+    "name": "Bergmite",
+    "dex": 712,
+    "path": "Addressable Assets/pm712.icon.png",
+    "file": "712.png"
+  },
+  {
+    "name": "Avalugg",
+    "dex": 713,
+    "path": "Addressable Assets/pm713.icon.png",
+    "file": "713.png"
+  },
+  {
+    "name": "Noibat",
+    "dex": 714,
+    "path": "Addressable Assets/pm714.icon.png",
+    "file": "714.png"
+  },
+  {
+    "name": "Noivern",
+    "dex": 715,
+    "path": "Addressable Assets/pm715.icon.png",
+    "file": "715.png"
+  },
+  {
+    "name": "Xerneas",
+    "dex": 716,
+    "path": "Addressable Assets/pm716.icon.png",
+    "file": "716.png"
+  },
+  {
+    "name": "Yveltal",
+    "dex": 717,
+    "path": "Addressable Assets/pm717.icon.png",
+    "file": "717.png"
+  },
+  {
+    "name": "Diancie",
+    "dex": 719,
+    "path": "Addressable Assets/pm719.icon.png",
+    "file": "719.png"
+  },
+  {
+    "name": "Hoopa",
+    "dex": 720,
+    "path": "Addressable Assets/pm720.icon.png",
+    "file": "720.png"
+  },
+  {
+    "name": "Volcanion",
+    "dex": 721,
+    "path": "Addressable Assets/pm721.icon.png",
+    "file": "721.png"
+  },
+  {
+    "name": "Rowlet",
+    "dex": 722,
+    "path": "Addressable Assets/pm722.icon.png",
+    "file": "722.png"
+  },
+  {
+    "name": "Dartrix",
+    "dex": 723,
+    "path": "Addressable Assets/pm723.icon.png",
+    "file": "723.png"
+  },
+  {
+    "name": "Decidueye",
+    "dex": 724,
+    "path": "Addressable Assets/pm724.icon.png",
+    "file": "724.png"
+  },
+  {
+    "name": "Litten",
+    "dex": 725,
+    "path": "Addressable Assets/pm725.icon.png",
+    "file": "725.png"
+  },
+  {
+    "name": "Torracat",
+    "dex": 726,
+    "path": "Addressable Assets/pm726.icon.png",
+    "file": "726.png"
+  },
+  {
+    "name": "Incineroar",
+    "dex": 727,
+    "path": "Addressable Assets/pm727.icon.png",
+    "file": "727.png"
+  },
+  {
+    "name": "Popplio",
+    "dex": 728,
+    "path": "Addressable Assets/pm728.icon.png",
+    "file": "728.png"
+  },
+  {
+    "name": "Brionne",
+    "dex": 729,
+    "path": "Addressable Assets/pm729.icon.png",
+    "file": "729.png"
+  },
+  {
+    "name": "Primarina",
+    "dex": 730,
+    "path": "Addressable Assets/pm730.icon.png",
+    "file": "730.png"
+  },
+  {
+    "name": "Pikipek",
+    "dex": 731,
+    "path": "Addressable Assets/pm731.icon.png",
+    "file": "731.png"
+  },
+  {
+    "name": "Trumbeak",
+    "dex": 732,
+    "path": "Addressable Assets/pm732.icon.png",
+    "file": "732.png"
+  },
+  {
+    "name": "Toucannon",
+    "dex": 733,
+    "path": "Addressable Assets/pm733.icon.png",
+    "file": "733.png"
+  },
+  {
+    "name": "Yungoos",
+    "dex": 734,
+    "path": "Addressable Assets/pm734.icon.png",
+    "file": "734.png"
+  },
+  {
+    "name": "Gumshoos",
+    "dex": 735,
+    "path": "Addressable Assets/pm735.icon.png",
+    "file": "735.png"
+  },
+  {
+    "name": "Grubbin",
+    "dex": 736,
+    "path": "Addressable Assets/pm736.icon.png",
+    "file": "736.png"
+  },
+  {
+    "name": "Charjabug",
+    "dex": 737,
+    "path": "Addressable Assets/pm737.icon.png",
+    "file": "737.png"
+  },
+  {
+    "name": "Vikavolt",
+    "dex": 738,
+    "path": "Addressable Assets/pm738.icon.png",
+    "file": "738.png"
+  },
+  {
+    "name": "Crabrawler",
+    "dex": 739,
+    "path": "Addressable Assets/pm739.icon.png",
+    "file": "739.png"
+  },
+  {
+    "name": "Crabominable",
+    "dex": 740,
+    "path": "Addressable Assets/pm740.icon.png",
+    "file": "740.png"
+  },
+  {
+    "name": "Cutiefly",
+    "dex": 742,
+    "path": "Addressable Assets/pm742.icon.png",
+    "file": "742.png"
+  },
+  {
+    "name": "Ribombee",
+    "dex": 743,
+    "path": "Addressable Assets/pm743.icon.png",
+    "file": "743.png"
+  },
+  {
+    "name": "Rockruff",
+    "dex": 744,
+    "path": "Addressable Assets/pm744.icon.png",
+    "file": "744.png"
+  },
+  {
+    "name": "Mareanie",
+    "dex": 747,
+    "path": "Addressable Assets/pm747.icon.png",
+    "file": "747.png"
+  },
+  {
+    "name": "Toxapex",
+    "dex": 748,
+    "path": "Addressable Assets/pm748.icon.png",
+    "file": "748.png"
+  },
+  {
+    "name": "Mudbray",
+    "dex": 749,
+    "path": "Addressable Assets/pm749.icon.png",
+    "file": "749.png"
+  },
+  {
+    "name": "Mudsdale",
+    "dex": 750,
+    "path": "Addressable Assets/pm750.icon.png",
+    "file": "750.png"
+  },
+  {
+    "name": "Dewpider",
+    "dex": 751,
+    "path": "Addressable Assets/pm751.icon.png",
+    "file": "751.png"
+  },
+  {
+    "name": "Araquanid",
+    "dex": 752,
+    "path": "Addressable Assets/pm752.icon.png",
+    "file": "752.png"
+  },
+  {
+    "name": "Fomantis",
+    "dex": 753,
+    "path": "Addressable Assets/pm753.icon.png",
+    "file": "753.png"
+  },
+  {
+    "name": "Lurantis",
+    "dex": 754,
+    "path": "Addressable Assets/pm754.icon.png",
+    "file": "754.png"
+  },
+  {
+    "name": "Morelull",
+    "dex": 755,
+    "path": "Addressable Assets/pm755.icon.png",
+    "file": "755.png"
+  },
+  {
+    "name": "Shiinotic",
+    "dex": 756,
+    "path": "Addressable Assets/pm756.icon.png",
+    "file": "756.png"
+  },
+  {
+    "name": "Salandit",
+    "dex": 757,
+    "path": "Addressable Assets/pm757.icon.png",
+    "file": "757.png"
+  },
+  {
+    "name": "Salazzle",
+    "dex": 758,
+    "path": "Addressable Assets/pm758.icon.png",
+    "file": "758.png"
+  },
+  {
+    "name": "Stufful",
+    "dex": 759,
+    "path": "Addressable Assets/pm759.icon.png",
+    "file": "759.png"
+  },
+  {
+    "name": "Bewear",
+    "dex": 760,
+    "path": "Addressable Assets/pm760.icon.png",
+    "file": "760.png"
+  },
+  {
+    "name": "Bounsweet",
+    "dex": 761,
+    "path": "Addressable Assets/pm761.icon.png",
+    "file": "761.png"
+  },
+  {
+    "name": "Steenee",
+    "dex": 762,
+    "path": "Addressable Assets/pm762.icon.png",
+    "file": "762.png"
+  },
+  {
+    "name": "Tsareena",
+    "dex": 763,
+    "path": "Addressable Assets/pm763.icon.png",
+    "file": "763.png"
+  },
+  {
+    "name": "Comfey",
+    "dex": 764,
+    "path": "Addressable Assets/pm764.icon.png",
+    "file": "764.png"
+  },
+  {
+    "name": "Oranguru",
+    "dex": 765,
+    "path": "Addressable Assets/pm765.icon.png",
+    "file": "765.png"
+  },
+  {
+    "name": "Passimian",
+    "dex": 766,
+    "path": "Addressable Assets/pm766.icon.png",
+    "file": "766.png"
+  },
+  {
+    "name": "Wimpod",
+    "dex": 767,
+    "path": "Addressable Assets/pm767.icon.png",
+    "file": "767.png"
+  },
+  {
+    "name": "Golisopod",
+    "dex": 768,
+    "path": "Addressable Assets/pm768.icon.png",
+    "file": "768.png"
+  },
+  {
+    "name": "Sandygast",
+    "dex": 769,
+    "path": "Addressable Assets/pm769.icon.png",
+    "file": "769.png"
+  },
+  {
+    "name": "Palossand",
+    "dex": 770,
+    "path": "Addressable Assets/pm770.icon.png",
+    "file": "770.png"
+  },
+  {
+    "name": "Komala",
+    "dex": 775,
+    "path": "Addressable Assets/pm775.icon.png",
+    "file": "775.png"
+  },
+  {
+    "name": "Turtonator",
+    "dex": 776,
+    "path": "Addressable Assets/pm776.icon.png",
+    "file": "776.png"
+  },
+  {
+    "name": "Togedemaru",
+    "dex": 777,
+    "path": "Addressable Assets/pm777.icon.png",
+    "file": "777.png"
+  },
+  {
+    "name": "Bruxish",
+    "dex": 779,
+    "path": "Addressable Assets/pm779.icon.png",
+    "file": "779.png"
+  },
+  {
+    "name": "Drampa",
+    "dex": 780,
+    "path": "Addressable Assets/pm780.icon.png",
+    "file": "780.png"
+  },
+  {
+    "name": "Dhelmise",
+    "dex": 781,
+    "path": "Addressable Assets/pm781.icon.png",
+    "file": "781.png"
+  },
+  {
+    "name": "Cosmog",
+    "dex": 789,
+    "path": "Addressable Assets/pm789.icon.png",
+    "file": "789.png"
+  },
+  {
+    "name": "Cosmoem",
+    "dex": 790,
+    "path": "Addressable Assets/pm790.icon.png",
+    "file": "790.png"
+  },
+  {
+    "name": "Solgaleo",
+    "dex": 791,
+    "path": "Addressable Assets/pm791.icon.png",
+    "file": "791.png"
+  },
+  {
+    "name": "Lunala",
+    "dex": 792,
+    "path": "Addressable Assets/pm792.icon.png",
+    "file": "792.png"
+  },
+  {
+    "name": "Nihilego",
+    "dex": 793,
+    "path": "Addressable Assets/pm793.icon.png",
+    "file": "793.png"
+  },
+  {
+    "name": "Buzzwole",
+    "dex": 794,
+    "path": "Addressable Assets/pm794.icon.png",
+    "file": "794.png"
+  },
+  {
+    "name": "Pheromosa",
+    "dex": 795,
+    "path": "Addressable Assets/pm795.icon.png",
+    "file": "795.png"
+  },
+  {
+    "name": "Xurkitree",
+    "dex": 796,
+    "path": "Addressable Assets/pm796.icon.png",
+    "file": "796.png"
+  },
+  {
+    "name": "Celesteela",
+    "dex": 797,
+    "path": "Addressable Assets/pm797.icon.png",
+    "file": "797.png"
+  },
+  {
+    "name": "Kartana",
+    "dex": 798,
+    "path": "Addressable Assets/pm798.icon.png",
+    "file": "798.png"
+  },
+  {
+    "name": "Guzzlord",
+    "dex": 799,
+    "path": "Addressable Assets/pm799.icon.png",
+    "file": "799.png"
+  },
+  {
+    "name": "Necrozma",
+    "dex": 800,
+    "path": "Addressable Assets/pm800.icon.png",
+    "file": "800.png"
+  },
+  {
+    "name": "Marshadow",
+    "dex": 802,
+    "path": "Addressable Assets/pm802.icon.png",
+    "file": "802.png"
+  },
+  {
+    "name": "Poipole",
+    "dex": 803,
+    "path": "Addressable Assets/pm803.icon.png",
+    "file": "803.png"
+  },
+  {
+    "name": "Naganadel",
+    "dex": 804,
+    "path": "Addressable Assets/pm804.icon.png",
+    "file": "804.png"
+  },
+  {
+    "name": "Stakataka",
+    "dex": 805,
+    "path": "Addressable Assets/pm805.icon.png",
+    "file": "805.png"
+  },
+  {
+    "name": "Blacephalon",
+    "dex": 806,
+    "path": "Addressable Assets/pm806.icon.png",
+    "file": "806.png"
+  },
+  {
+    "name": "Meltan",
+    "dex": 808,
+    "path": "Addressable Assets/pm808.icon.png",
+    "file": "808.png"
+  },
+  {
+    "name": "Melmetal",
+    "dex": 809,
+    "path": "Addressable Assets/pm809.icon.png",
+    "file": "809.png"
+  },
+  {
+    "name": "Grookey",
+    "dex": 810,
+    "path": "Addressable Assets/pm810.icon.png",
+    "file": "810.png"
+  },
+  {
+    "name": "Thwackey",
+    "dex": 811,
+    "path": "Addressable Assets/pm811.icon.png",
+    "file": "811.png"
+  },
+  {
+    "name": "Rillaboom",
+    "dex": 812,
+    "path": "Addressable Assets/pm812.icon.png",
+    "file": "812.png"
+  },
+  {
+    "name": "Scorbunny",
+    "dex": 813,
+    "path": "Addressable Assets/pm813.icon.png",
+    "file": "813.png"
+  },
+  {
+    "name": "Raboot",
+    "dex": 814,
+    "path": "Addressable Assets/pm814.icon.png",
+    "file": "814.png"
+  },
+  {
+    "name": "Cinderace",
+    "dex": 815,
+    "path": "Addressable Assets/pm815.icon.png",
+    "file": "815.png"
+  },
+  {
+    "name": "Sobble",
+    "dex": 816,
+    "path": "Addressable Assets/pm816.icon.png",
+    "file": "816.png"
+  },
+  {
+    "name": "Drizzile",
+    "dex": 817,
+    "path": "Addressable Assets/pm817.icon.png",
+    "file": "817.png"
+  },
+  {
+    "name": "Inteleon",
+    "dex": 818,
+    "path": "Addressable Assets/pm818.icon.png",
+    "file": "818.png"
+  },
+  {
+    "name": "Skwovet",
+    "dex": 819,
+    "path": "Addressable Assets/pm819.icon.png",
+    "file": "819.png"
+  },
+  {
+    "name": "Greedent",
+    "dex": 820,
+    "path": "Addressable Assets/pm820.icon.png",
+    "file": "820.png"
+  },
+  {
+    "name": "Rookidee",
+    "dex": 821,
+    "path": "Addressable Assets/pm821.icon.png",
+    "file": "821.png"
+  },
+  {
+    "name": "Corvisquire",
+    "dex": 822,
+    "path": "Addressable Assets/pm822.icon.png",
+    "file": "822.png"
+  },
+  {
+    "name": "Corviknight",
+    "dex": 823,
+    "path": "Addressable Assets/pm823.icon.png",
+    "file": "823.png"
+  },
+  {
+    "name": "Nickit",
+    "dex": 827,
+    "path": "Addressable Assets/pm827.icon.png",
+    "file": "827.png"
+  },
+  {
+    "name": "Thievul",
+    "dex": 828,
+    "path": "Addressable Assets/pm828.icon.png",
+    "file": "828.png"
+  },
+  {
+    "name": "Gossifleur",
+    "dex": 829,
+    "path": "Addressable Assets/pm829.icon.png",
+    "file": "829.png"
+  },
+  {
+    "name": "Eldegoss",
+    "dex": 830,
+    "path": "Addressable Assets/pm830.icon.png",
+    "file": "830.png"
+  },
+  {
+    "name": "Wooloo",
+    "dex": 831,
+    "path": "Addressable Assets/pm831.icon.png",
+    "file": "831.png"
+  },
+  {
+    "name": "Dubwool",
+    "dex": 832,
+    "path": "Addressable Assets/pm832.icon.png",
+    "file": "832.png"
+  },
+  {
+    "name": "Yamper",
+    "dex": 835,
+    "path": "Addressable Assets/pm835.icon.png",
+    "file": "835.png"
+  },
+  {
+    "name": "Boltund",
+    "dex": 836,
+    "path": "Addressable Assets/pm836.icon.png",
+    "file": "836.png"
+  },
+  {
+    "name": "Applin",
+    "dex": 840,
+    "path": "Addressable Assets/pm840.icon.png",
+    "file": "840.png"
+  },
+  {
+    "name": "Flapple",
+    "dex": 841,
+    "path": "Addressable Assets/pm841.icon.png",
+    "file": "841.png"
+  },
+  {
+    "name": "Appletun",
+    "dex": 842,
+    "path": "Addressable Assets/pm842.icon.png",
+    "file": "842.png"
+  },
+  {
+    "name": "Toxel",
+    "dex": 848,
+    "path": "Addressable Assets/pm848.icon.png",
+    "file": "848.png"
+  },
+  {
+    "name": "Sizzlipede",
+    "dex": 850,
+    "path": "Addressable Assets/pm850.icon.png",
+    "file": "850.png"
+  },
+  {
+    "name": "Centiskorch",
+    "dex": 851,
+    "path": "Addressable Assets/pm851.icon.png",
+    "file": "851.png"
+  },
+  {
+    "name": "Sinistea",
+    "dex": 854,
+    "path": "Addressable Assets/pm854.icon.png",
+    "file": "854.png"
+  },
+  {
+    "name": "Polteageist",
+    "dex": 855,
+    "path": "Addressable Assets/pm855.icon.png",
+    "file": "855.png"
+  },
+  {
+    "name": "Hatenna",
+    "dex": 856,
+    "path": "Addressable Assets/pm856.icon.png",
+    "file": "856.png"
+  },
+  {
+    "name": "Hattrem",
+    "dex": 857,
+    "path": "Addressable Assets/pm857.icon.png",
+    "file": "857.png"
+  },
+  {
+    "name": "Hatterene",
+    "dex": 858,
+    "path": "Addressable Assets/pm858.icon.png",
+    "file": "858.png"
+  },
+  {
+    "name": "Impidimp",
+    "dex": 859,
+    "path": "Addressable Assets/pm859.icon.png",
+    "file": "859.png"
+  },
+  {
+    "name": "Morgrem",
+    "dex": 860,
+    "path": "Addressable Assets/pm860.icon.png",
+    "file": "860.png"
+  },
+  {
+    "name": "Grimmsnarl",
+    "dex": 861,
+    "path": "Addressable Assets/pm861.icon.png",
+    "file": "861.png"
+  },
+  {
+    "name": "Obstagoon",
+    "dex": 862,
+    "path": "Addressable Assets/pm862.icon.png",
+    "file": "862.png"
+  },
+  {
+    "name": "Perrserker",
+    "dex": 863,
+    "path": "Addressable Assets/pm863.icon.png",
+    "file": "863.png"
+  },
+  {
+    "name": "Cursola",
+    "dex": 864,
+    "path": "Addressable Assets/pm864.icon.png",
+    "file": "864.png"
+  },
+  {
+    "name": "Sirfetch'd",
+    "dex": 865,
+    "path": "Addressable Assets/pm865.icon.png",
+    "file": "865.png"
+  },
+  {
+    "name": "Runerigus",
+    "dex": 867,
+    "path": "Addressable Assets/pm867.icon.png",
+    "file": "867.png"
+  },
+  {
+    "name": "Falinks",
+    "dex": 870,
+    "path": "Addressable Assets/pm870.icon.png",
+    "file": "870.png"
+  },
+  {
+    "name": "Snom",
+    "dex": 872,
+    "path": "Addressable Assets/pm872.icon.png",
+    "file": "872.png"
+  },
+  {
+    "name": "Frosmoth",
+    "dex": 873,
+    "path": "Addressable Assets/pm873.icon.png",
+    "file": "873.png"
+  },
+  {
+    "name": "Stonjourner",
+    "dex": 874,
+    "path": "Addressable Assets/pm874.icon.png",
+    "file": "874.png"
+  },
+  {
+    "name": "Duraludon",
+    "dex": 884,
+    "path": "Addressable Assets/pm884.icon.png",
+    "file": "884.png"
+  },
+  {
+    "name": "Dreepy",
+    "dex": 885,
+    "path": "Addressable Assets/pm885.icon.png",
+    "file": "885.png"
+  },
+  {
+    "name": "Drakloak",
+    "dex": 886,
+    "path": "Addressable Assets/pm886.icon.png",
+    "file": "886.png"
+  },
+  {
+    "name": "Dragapult",
+    "dex": 887,
+    "path": "Addressable Assets/pm887.icon.png",
+    "file": "887.png"
+  },
+  {
+    "name": "Eternatus",
+    "dex": 890,
+    "path": "Addressable Assets/pm890.icon.png",
+    "file": "890.png"
+  },
+  {
+    "name": "Kubfu",
+    "dex": 891,
+    "path": "Addressable Assets/pm891.icon.png",
+    "file": "891.png"
+  },
+  {
+    "name": "Zarude",
+    "dex": 893,
+    "path": "Addressable Assets/pm893.icon.png",
+    "file": "893.png"
+  },
+  {
+    "name": "Regieleki",
+    "dex": 894,
+    "path": "Addressable Assets/pm894.icon.png",
+    "file": "894.png"
+  },
+  {
+    "name": "Regidrago",
+    "dex": 895,
+    "path": "Addressable Assets/pm895.icon.png",
+    "file": "895.png"
+  },
+  {
+    "name": "Wyrdeer",
+    "dex": 899,
+    "path": "Addressable Assets/pm899.icon.png",
+    "file": "899.png"
+  },
+  {
+    "name": "Kleavor",
+    "dex": 900,
+    "path": "Addressable Assets/pm900.icon.png",
+    "file": "900.png"
+  },
+  {
+    "name": "Ursaluna",
+    "dex": 901,
+    "path": "Addressable Assets/pm901.icon.png",
+    "file": "901.png"
+  },
+  {
+    "name": "Sneasler",
+    "dex": 903,
+    "path": "Addressable Assets/pm903.icon.png",
+    "file": "903.png"
+  },
+  {
+    "name": "Overqwil",
+    "dex": 904,
+    "path": "Addressable Assets/pm904.icon.png",
+    "file": "904.png"
+  },
+  {
+    "name": "Sprigatito",
+    "dex": 906,
+    "path": "Addressable Assets/pm906.icon.png",
+    "file": "906.png"
+  },
+  {
+    "name": "Floragato",
+    "dex": 907,
+    "path": "Addressable Assets/pm907.icon.png",
+    "file": "907.png"
+  },
+  {
+    "name": "Meowscarada",
+    "dex": 908,
+    "path": "Addressable Assets/pm908.icon.png",
+    "file": "908.png"
+  },
+  {
+    "name": "Fuecoco",
+    "dex": 909,
+    "path": "Addressable Assets/pm909.icon.png",
+    "file": "909.png"
+  },
+  {
+    "name": "Crocalor",
+    "dex": 910,
+    "path": "Addressable Assets/pm910.icon.png",
+    "file": "910.png"
+  },
+  {
+    "name": "Skeledirge",
+    "dex": 911,
+    "path": "Addressable Assets/pm911.icon.png",
+    "file": "911.png"
+  },
+  {
+    "name": "Quaxly",
+    "dex": 912,
+    "path": "Addressable Assets/pm912.icon.png",
+    "file": "912.png"
+  },
+  {
+    "name": "Quaxwell",
+    "dex": 913,
+    "path": "Addressable Assets/pm913.icon.png",
+    "file": "913.png"
+  },
+  {
+    "name": "Quaquaval",
+    "dex": 914,
+    "path": "Addressable Assets/pm914.icon.png",
+    "file": "914.png"
+  },
+  {
+    "name": "Lechonk",
+    "dex": 915,
+    "path": "Addressable Assets/pm915.icon.png",
+    "file": "915.png"
+  },
+  {
+    "name": "Oinkologne",
+    "dex": 916,
+    "path": "Addressable Assets/pm916.icon.png",
+    "file": "916.png"
+  },
+  {
+    "name": "Nymble",
+    "dex": 919,
+    "path": "Addressable Assets/pm919.icon.png",
+    "file": "919.png"
+  },
+  {
+    "name": "Lokix",
+    "dex": 920,
+    "path": "Addressable Assets/pm920.icon.png",
+    "file": "920.png"
+  },
+  {
+    "name": "Pawmi",
+    "dex": 921,
+    "path": "Addressable Assets/pm921.icon.png",
+    "file": "921.png"
+  },
+  {
+    "name": "Pawmo",
+    "dex": 922,
+    "path": "Addressable Assets/pm922.icon.png",
+    "file": "922.png"
+  },
+  {
+    "name": "Pawmot",
+    "dex": 923,
+    "path": "Addressable Assets/pm923.icon.png",
+    "file": "923.png"
+  },
+  {
+    "name": "Tandemaus",
+    "dex": 924,
+    "path": "Addressable Assets/pm924.icon.png",
+    "file": "924.png"
+  },
+  {
+    "name": "Fidough",
+    "dex": 926,
+    "path": "Addressable Assets/pm926.icon.png",
+    "file": "926.png"
+  },
+  {
+    "name": "Dachsbun",
+    "dex": 927,
+    "path": "Addressable Assets/pm927.icon.png",
+    "file": "927.png"
+  },
+  {
+    "name": "Smoliv",
+    "dex": 928,
+    "path": "Addressable Assets/pm928.icon.png",
+    "file": "928.png"
+  },
+  {
+    "name": "Dolliv",
+    "dex": 929,
+    "path": "Addressable Assets/pm929.icon.png",
+    "file": "929.png"
+  },
+  {
+    "name": "Arboliva",
+    "dex": 930,
+    "path": "Addressable Assets/pm930.icon.png",
+    "file": "930.png"
+  },
+  {
+    "name": "Charcadet",
+    "dex": 935,
+    "path": "Addressable Assets/pm935.icon.png",
+    "file": "935.png"
+  },
+  {
+    "name": "Armarouge",
+    "dex": 936,
+    "path": "Addressable Assets/pm936.icon.png",
+    "file": "936.png"
+  },
+  {
+    "name": "Ceruledge",
+    "dex": 937,
+    "path": "Addressable Assets/pm937.icon.png",
+    "file": "937.png"
+  },
+  {
+    "name": "Tadbulb",
+    "dex": 938,
+    "path": "Addressable Assets/pm938.icon.png",
+    "file": "938.png"
+  },
+  {
+    "name": "Bellibolt",
+    "dex": 939,
+    "path": "Addressable Assets/pm939.icon.png",
+    "file": "939.png"
+  },
+  {
+    "name": "Shroodle",
+    "dex": 944,
+    "path": "Addressable Assets/pm944.icon.png",
+    "file": "944.png"
+  },
+  {
+    "name": "Grafaiai",
+    "dex": 945,
+    "path": "Addressable Assets/pm945.icon.png",
+    "file": "945.png"
+  },
+  {
+    "name": "Toedscool",
+    "dex": 948,
+    "path": "Addressable Assets/pm948.icon.png",
+    "file": "948.png"
+  },
+  {
+    "name": "Toedscruel",
+    "dex": 949,
+    "path": "Addressable Assets/pm949.icon.png",
+    "file": "949.png"
+  },
+  {
+    "name": "Tinkatink",
+    "dex": 957,
+    "path": "Addressable Assets/pm957.icon.png",
+    "file": "957.png"
+  },
+  {
+    "name": "Tinkatuff",
+    "dex": 958,
+    "path": "Addressable Assets/pm958.icon.png",
+    "file": "958.png"
+  },
+  {
+    "name": "Tinkaton",
+    "dex": 959,
+    "path": "Addressable Assets/pm959.icon.png",
+    "file": "959.png"
+  },
+  {
+    "name": "Wiglett",
+    "dex": 960,
+    "path": "Addressable Assets/pm960.icon.png",
+    "file": "960.png"
+  },
+  {
+    "name": "Wugtrio",
+    "dex": 961,
+    "path": "Addressable Assets/pm961.icon.png",
+    "file": "961.png"
+  },
+  {
+    "name": "Bombirdier",
+    "dex": 962,
+    "path": "Addressable Assets/pm962.icon.png",
+    "file": "962.png"
+  },
+  {
+    "name": "Varoom",
+    "dex": 965,
+    "path": "Addressable Assets/pm965.icon.png",
+    "file": "965.png"
+  },
+  {
+    "name": "Revavroom",
+    "dex": 966,
+    "path": "Addressable Assets/pm966.icon.png",
+    "file": "966.png"
+  },
+  {
+    "name": "Greavard",
+    "dex": 971,
+    "path": "Addressable Assets/pm971.icon.png",
+    "file": "971.png"
+  },
+  {
+    "name": "Houndstone",
+    "dex": 972,
+    "path": "Addressable Assets/pm972.icon.png",
+    "file": "972.png"
+  },
+  {
+    "name": "Cetoddle",
+    "dex": 974,
+    "path": "Addressable Assets/pm974.icon.png",
+    "file": "974.png"
+  },
+  {
+    "name": "Cetitan",
+    "dex": 975,
+    "path": "Addressable Assets/pm975.icon.png",
+    "file": "975.png"
+  },
+  {
+    "name": "Dondozo",
+    "dex": 977,
+    "path": "Addressable Assets/pm977.icon.png",
+    "file": "977.png"
+  },
+  {
+    "name": "Annihilape",
+    "dex": 979,
+    "path": "Addressable Assets/pm979.icon.png",
+    "file": "979.png"
+  },
+  {
+    "name": "Clodsire",
+    "dex": 980,
+    "path": "Addressable Assets/pm980.icon.png",
+    "file": "980.png"
+  },
+  {
+    "name": "Kingambit",
+    "dex": 983,
+    "path": "Addressable Assets/pm983.icon.png",
+    "file": "983.png"
+  },
+  {
+    "name": "Frigibax",
+    "dex": 996,
+    "path": "Addressable Assets/pm996.icon.png",
+    "file": "996.png"
+  },
+  {
+    "name": "Arctibax",
+    "dex": 997,
+    "path": "Addressable Assets/pm997.icon.png",
+    "file": "997.png"
+  },
+  {
+    "name": "Baxcalibur",
+    "dex": 998,
+    "path": "Addressable Assets/pm998.icon.png",
+    "file": "998.png"
+  },
+  {
+    "name": "Gimmighoul",
+    "dex": 999,
+    "path": "Addressable Assets/pm999.icon.png",
+    "file": "999.png"
+  },
+  {
+    "name": "Gholdengo",
+    "dex": 1000,
+    "path": "Addressable Assets/pm1000.icon.png",
+    "file": "1000.png"
+  },
+  {
+    "name": "Dipplin",
+    "dex": 1011,
+    "path": "Addressable Assets/pm1011.icon.png",
+    "file": "1011.png"
+  },
+  {
+    "name": "Hydrapple",
+    "dex": 1019,
+    "path": "Addressable Assets/pm1019.icon.png",
+    "file": "1019.png"
+  }
+]

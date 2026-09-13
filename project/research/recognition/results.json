@@ -1,0 +1,226 @@
+[
+  {
+    "image": "decorated-lapras-input.png",
+    "prediction": "Lapras",
+    "top": [
+      [
+        "Lapras",
+        [
+          35,
+          0.16453596809023824
+        ]
+      ],
+      [
+        "Armored Mewtwo",
+        [
+          5,
+          0.06625341800487931
+        ]
+      ],
+      [
+        "Metagross",
+        [
+          5,
+          0.02969567888569512
+        ]
+      ]
+    ],
+    "seconds": 0.4
+  },
+  {
+    "image": "glimmet-unseen-input.png",
+    "prediction": "",
+    "top": [
+      [
+        "Lapras",
+        [
+          5,
+          0.18524458732321186
+        ]
+      ],
+      [
+        "Armored Mewtwo",
+        [
+          4,
+          0.2655817335732823
+        ]
+      ],
+      [
+        "Metagross",
+        [
+          4,
+          0.13646861384719372
+        ]
+      ]
+    ],
+    "seconds": 0.07
+  },
+  {
+    "image": "shiny-metagross-input.png",
+    "prediction": "Metagross",
+    "top": [
+      [
+        "Metagross",
+        [
+          83,
+          0.10936520150439805
+        ]
+      ],
+      [
+        "Passimian",
+        [
+          5,
+          0.016414328808271626
+        ]
+      ],
+      [
+        "Armored Mewtwo",
+        [
+          4,
+          0.11671162940040007
+        ]
+      ]
+    ],
+    "seconds": 0.19
+  },
+  {
+    "image": "armored-mewtwo-input.png",
+    "prediction": "",
+    "top": [
+      [
+        "Armored Mewtwo",
+        [
+          6,
+          0.021119764178694236
+        ]
+      ],
+      [
+        "Lapras",
+        [
+          5,
+          0.2808667853791767
+        ]
+      ],
+      [
+        "Lunala",
+        [
+          5,
+          0.08892195644965743
+        ]
+      ]
+    ],
+    "seconds": 0.33
+  },
+  {
+    "image": "map-unrelated-input.png",
+    "prediction": "",
+    "top": [
+      [
+        "Lapras",
+        [
+          5,
+          0.08112226959628548
+        ]
+      ],
+      [
+        "Armored Mewtwo",
+        [
+          4,
+          0.004661723328756584
+        ]
+      ],
+      [
+        "Cinderace",
+        [
+          4,
+          0.1871949147599956
+        ]
+      ]
+    ],
+    "seconds": 0.45
+  },
+  {
+    "image": "cinderace-input.png",
+    "prediction": "Cinderace",
+    "top": [
+      [
+        "Cinderace",
+        [
+          26,
+          0.06623531718215103
+        ]
+      ],
+      [
+        "Metagross",
+        [
+          6,
+          0.0307259458144604
+        ]
+      ],
+      [
+        "Kleavor",
+        [
+          5,
+          0.007993083816952455
+        ]
+      ]
+    ],
+    "seconds": 0.12
+  },
+  {
+    "image": "bag-unrelated-input.png",
+    "prediction": "",
+    "top": [
+      [
+        "Armored Mewtwo",
+        [
+          5,
+          0.11036851287156532
+        ]
+      ],
+      [
+        "Metagross",
+        [
+          5,
+          0.14604207200881147
+        ]
+      ],
+      [
+        "Cinderace",
+        [
+          4,
+          0.13465561410951937
+        ]
+      ]
+    ],
+    "seconds": 0.27
+  },
+  {
+    "image": "mewtwo-input.png",
+    "prediction": "Mewtwo",
+    "top": [
+      [
+        "Mewtwo",
+        [
+          14,
+          0.0361737666007494
+        ]
+      ],
+      [
+        "Armored Mewtwo",
+        [
+          5,
+          0.23273818313583247
+        ]
+      ],
+      [
+        "Metagross",
+        [
+          5,
+          0.031454083056427766
+        ]
+      ]
+    ],
+    "seconds": 0.16
+  }
+]

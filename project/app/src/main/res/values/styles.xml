@@ -1,0 +1,8 @@
+<resources>
+ <color name="coach_background">#0B1420</color>
+ <style name="CoachTheme" parent="android:style/Theme.Material.NoActionBar">
+  <item name="android:fontFamily">sans</item><item name="android:colorAccent">#6CE5BF</item>
+  <item name="android:windowBackground">#0B1420</item><item name="android:statusBarColor">#0B1420</item><item name="android:navigationBarColor">#0B1420</item>
+  <item name="android:windowLightStatusBar">false</item><item name="android:windowLightNavigationBar">false</item>
+  <item name="android:textColorPrimary">#F1F6FB</item><item name="android:textColorSecondary">#AABBD0</item>
+ </style></resources>

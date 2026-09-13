@@ -1,0 +1,381 @@
+C	Acid Spray
+C	Acrobatics
+C	Aerial Ace
+C	Aeroblast
+C	Aeroblast Plus
+C	Aeroblast Plus Plus
+C	Air Cutter
+C	Ancient Power
+C	Aqua Jet
+C	Aqua Step
+C	Aqua Tail
+C	Aura Sphere
+C	Aurora Beam
+C	Avalanche
+C	Beak Blast
+C	Behemoth Bash
+C	Behemoth Blade
+C	Blast Burn
+C	Blaze Kick
+C	Bleakwind Storm
+C	Blizzard
+C	Body Slam
+C	Bone Club
+C	Boomburst
+C	Brave Bird
+C	Breaking Swipe
+C	Brick Break
+C	Brine
+C	Brutal Swing
+C	Bubble Beam
+C	Bug Buzz
+C	Bulldoze
+C	Chilling Water
+C	Clanging Scales
+C	Close Combat
+C	Crabhammer
+C	Cross Chop
+C	Cross Poison
+C	Crunch
+C	Crush Claw
+C	Crush Grip
+C	Dark Pulse
+C	Darkest Lariat
+C	Dazzling Gleam
+C	Dig
+C	Disarming Voice
+C	Discharge
+C	Doom Desire
+C	Double Iron Bash
+C	Draco Meteor
+C	Dragon Ascent
+C	Dragon Claw
+C	Dragon Energy
+C	Dragon Pulse
+C	Drain Punch
+C	Draining Kiss
+C	Drill Peck
+C	Drill Run
+C	Drum Beating
+C	Dynamic Punch
+C	Earth Power
+C	Earthquake
+C	Energy Ball
+C	Feather Dance
+C	Fell Stinger
+C	Fire Blast
+C	Fire Punch
+C	Fissure
+C	Flame Burst
+C	Flame Charge
+C	Flame Wheel
+C	Flamethrower
+C	Flash Cannon
+C	Flower Trick
+C	Fly
+C	Flying Press
+C	Focus Blast
+C	Foul Play
+C	Freeze Shock
+C	Frenzy Plant
+C	Frustration
+C	Fusion Bolt
+C	Fusion Flare
+C	Futuresight
+C	Giga Drain
+C	Giga Impact
+C	Gigaton Hammer
+C	Glaciate
+C	Grass Knot
+C	Gunk Shot
+C	Gyro Ball
+C	Heart Stamp
+C	Heat Wave
+C	Heavy Slam
+C	High Horsepower
+C	High Jump Kick
+C	Horn Attack
+C	Horn Drill
+C	Hurricane
+C	Hydro Cannon
+C	Hydro Pump
+C	Hydro Pump Blastoise
+C	Hyper Beam
+C	Hyper Fang
+C	Ice Beam
+C	Ice Burn
+C	Ice Punch
+C	Icicle Spear
+C	Icy Wind
+C	Iron Head
+C	Last Resort
+C	Leaf Blade
+C	Leaf Storm
+C	Leaf Tornado
+C	Leech Life
+C	Liquidation
+C	Low Sweep
+C	Lunge
+C	Luster Purge
+C	Magma Storm
+C	Magnet Bomb
+C	Mega Drain
+C	Megahorn
+C	Meteor Beam
+C	Meteor Mash
+C	Mind Blown
+C	Mirror Coat
+C	Mirror Shot
+C	Mist Ball
+C	Moonblast
+C	Moongeist Beam
+C	Mud Bomb
+C	Muddy Water
+C	Mystical Fire
+C	Natures Madness
+C	Night Shade
+C	Night Slash
+C	Oblivion Wing
+C	Obstruct
+C	Octazooka
+C	Ominous Wind
+C	Origin Pulse
+C	Outrage
+C	Overheat
+C	Parabolic Charge
+C	Payback
+C	Petal Blizzard
+C	Play Rough
+C	Poison Fang
+C	Poltergeist
+C	Power Gem
+C	Power Up Punch
+C	Power Whip
+C	Precipice Blades
+C	Psybeam
+C	Psychic
+C	Psychic Fangs
+C	Psycho Boost
+C	Psyshock
+C	Psystrike
+C	Pyroball
+C	Rage Fist
+C	Razor Shell
+C	Rest
+C	Return
+C	Roar Of Time
+C	Rock Blast
+C	Rock Slide
+C	Rock Tomb
+C	Rock Wrecker
+C	Sacred Fire
+C	Sacred Fire Plus
+C	Sacred Fire Plus Plus
+C	Sacred Sword
+C	Sand Tomb
+C	Sandsear Storm
+C	Scald
+C	Scald Blastoise
+C	Scorching Sands
+C	Secret Sword
+C	Seed Bomb
+C	Seed Flare
+C	Shadow Ball
+C	Shadow Bone
+C	Shadow Force
+C	Shadow Punch
+C	Shadow Sneak
+C	Signal Beam
+C	Silver Wind
+C	Skull Bash
+C	Sky Attack
+C	Sludge
+C	Sludge Bomb
+C	Sludge Wave
+C	Solar Beam
+C	Spacial Rend
+C	Sparkling Aria
+C	Spirit Shackle
+C	Stomp
+C	Stone Edge
+C	Struggle
+C	Submission
+C	Sunsteel Strike
+C	Super Power
+C	Surf
+C	Swift
+C	Synchronoise
+C	Techno Blast Burn
+C	Techno Blast Chill
+C	Techno Blast Normal
+C	Techno Blast Shock
+C	Techno Blast Water
+C	Thunder
+C	Thunder Cage
+C	Thunder Punch
+C	Thunderbolt
+C	Torch Song
+C	Trailblaze
+C	Tri Attack
+C	Triple Axel
+C	Twister
+C	Upper Hand
+C	V Create
+C	Vice Grip
+C	Vn Bm 001
+C	Vn Bm 002
+C	Vn Bm 003
+C	Vn Bm 004
+C	Vn Bm 005
+C	Vn Bm 006
+C	Vn Bm 007
+C	Vn Bm 008
+C	Vn Bm 009
+C	Vn Bm 010
+C	Vn Bm 011
+C	Vn Bm 012
+C	Vn Bm 013
+C	Vn Bm 014
+C	Vn Bm 015
+C	Vn Bm 016
+C	Vn Bm 017
+C	Vn Bm 018
+C	Vn Bm 019
+C	Vn Bm 020
+C	Vn Bm 021
+C	Vn Bm 022
+C	Vn Bm 023
+C	Vn Bm 024
+C	Vn Bm 025
+C	Vn Bm 026
+C	Vn Bm 027
+C	Vn Bm 028
+C	Vn Bm 029
+C	Vn Bm 030
+C	Vn Bm 031
+C	Vn Bm 032
+C	Vn Bm 033
+C	Vn Bm 034
+C	Vn Bm 035
+C	Vn Bm 036
+C	Vn Bm 037
+C	Vn Bm 038
+C	Vn Bm 039
+C	Vn Bm 040
+C	Vn Bm 041
+C	Vn Bm 042
+C	Vn Bm 043
+C	Vn Bm 044
+C	Vn Bm 045
+C	Vn Bm 046
+C	Vn Bm 047
+C	Vn Bm 048
+C	Vn Bm 049
+C	Vn Bm 050
+C	Vn Bm 051
+C	Vn Bm 052
+C	Vn Bm 053
+C	Vn Bm 054
+C	Vn Bm 055
+C	Vn Bm 056
+C	Vn Bm 057
+C	Vn Bm 058
+C	Vn Bm 059
+C	Vn Bm 060
+C	Vn Bm 061
+C	Vn Bm 062
+C	Volt Tackle
+C	Water Gun Fast Blastoise
+C	Water Pulse
+C	Weather Ball Fire
+C	Weather Ball Ice
+C	Weather Ball Normal
+C	Weather Ball Rock
+C	Weather Ball Water
+C	Wild Charge
+C	Wildbolt Storm
+C	Wrap
+C	Wrap Green
+C	Wrap Pink
+C	X Scissor
+C	Zap Cannon
+F	Acid
+F	Air Slash
+F	Astonish
+F	Bite
+F	Bubble
+F	Bug Bite
+F	Bullet Punch
+F	Bullet Seed
+F	Charge Beam
+F	Charm
+F	Confusion
+F	Counter
+F	Cut
+F	Double Kick
+F	Dragon Breath
+F	Dragon Tail
+F	Ember
+F	Extrasensory
+F	Fairy Wind
+F	Feint Attack
+F	Fire Fang
+F	Fire Spin
+F	Force Palm
+F	Frost Breath
+F	Fury Cutter
+F	Geomancy
+F	Gust
+F	Hex
+F	Hidden Power
+F	Ice Fang
+F	Ice Shard
+F	Incinerate
+F	Infestation
+F	Iron Tail
+F	Karate Chop
+F	Leafage
+F	Lick
+F	Lock On
+F	Low Kick
+F	Magical Leaf
+F	Metal Claw
+F	Metal Sound
+F	Mud Shot
+F	Mud Slap
+F	Peck
+F	Poison Jab
+F	Poison Sting
+F	Pound
+F	Powder Snow
+F	Present
+F	Psycho Cut
+F	Psywave
+F	Quick Attack
+F	Razor Leaf
+F	Rock Smash
+F	Rock Throw
+F	Rollout
+F	Sand Attack
+F	Scratch
+F	Shadow Claw
+F	Smack Down
+F	Snarl
+F	Spark
+F	Splash
+F	Steel Wing
+F	Struggle Bug
+F	Sucker Punch
+F	Tackle
+F	Take Down
+F	Thunder Fang
+F	Thunder Shock
+F	Transform
+F	Vine Whip
+F	Volt Switch
+F	Water Gun
+F	Water Shuriken
+F	Waterfall
+F	Wing Attack
+F	Yawn
+F	Zen Headbutt
