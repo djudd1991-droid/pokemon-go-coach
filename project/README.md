@@ -1,4 +1,8 @@
-# GO Coach 0.9.20
+# GO Coach 0.9.21
+
+Wild Map tuning now loads once per process at application startup into a static
+HashMap. Scanning uses cached key lookups without reopening or parsing JSON.
+See [startup-cache.md](../docs/startup-cache.md) for the design and Windows build steps.
 
 Use the readable source in this directory. Run checks and packaging from the
 repository root; see [DEVELOPMENT.md](DEVELOPMENT.md). The home screen and floating

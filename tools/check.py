@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PROJECT = ROOT / "project"
 PURE = (
     "Appearance LearningBank EncounterEvidence Reading PvpGrade CoachAdvice "
-    "ScreenKind WildMapDetector WildMapForeground WildMapAppearance WildMapTracker RecordStore"
+    "ScreenKind WildMapDetector WildMapForeground WildMapAppearance WildMapTracker RecordStore WildMapStartupCache"
 ).split()
 
 
@@ -32,6 +32,9 @@ def main():
     sources += sorted((PROJECT / "research").rglob("*.java"))
     assets = PROJECT / "app/src/main/assets"
     checks = [
+        ("StartupCacheCheck", ["valid"]),
+        ("StartupCacheCheck", ["invalid"]),
+        ("StartupCacheCheck", ["missing"]),
         ("ScannerRegression", []),
         ("LearningCheck", []),
         ("AutoSaveCheck", []),
@@ -68,7 +71,7 @@ def main():
             check=True,
         )
     subprocess.run([tool("java"), "-cp", cp, "ScreenKindCheck"], check=True)
-    print("All 8 logic regression suites passed.")
+    print("All logic regression suites passed, including three startup-cache scenarios.")
 
 
 if __name__ == "__main__":

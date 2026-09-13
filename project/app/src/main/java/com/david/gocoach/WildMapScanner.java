@@ -1,30 +1,14 @@
 package com.david.gocoach;
 
-import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Rect;
-import org.json.JSONObject;
 
 public final class WildMapScanner {
   volatile LearningBank memory;
-  int maxResults = 16;
   final WildMapTracker tracker = new WildMapTracker();
 
   public void reset() {
     tracker.clear();
-  }
-
-  public WildMapScanner(Context context) {
-    try (java.io.InputStream in = context.getAssets().open("wild-map/wild-map.json")) {
-      java.io.ByteArrayOutputStream out = new java.io.ByteArrayOutputStream();
-      byte[] buf = new byte[4096];
-      int n;
-      while ((n = in.read(buf)) != -1) out.write(buf, 0, n);
-      maxResults =
-          Math.max(
-              1, Math.min(24, new JSONObject(out.toString("UTF-8")).optInt("max_results", 16)));
-    } catch (Exception ignored) {
-    }
   }
 
   /**
@@ -61,7 +45,7 @@ public final class WildMapScanner {
     long mapped = android.os.SystemClock.elapsedRealtime();
     java.util.List<WildMapMatch> found = new java.util.ArrayList<>();
     java.util.List<WildMapDetector.Spot> spots =
-        WildMapDetector.detect(pixels, w, h, zone, maxResults);
+        WildMapDetector.detect(pixels, w, h, zone, WildMapStartupCache.maxResults());
     long detected = android.os.SystemClock.elapsedRealtime();
     for (WildMapDetector.Spot s :
         tracker.update(spots, w, h, android.os.SystemClock.elapsedRealtime())) {

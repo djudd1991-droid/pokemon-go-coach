@@ -136,7 +136,7 @@ public class CoachService extends Service {
         }
       }
       recognizer = TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS);
-      wildScanner = new WildMapScanner(this);
+      wildScanner = new WildMapScanner();
       learning = new CoachLearning(this);
       wm = getSystemService(WindowManager.class);
       Rect bounds = wm.getMaximumWindowMetrics().getBounds();
